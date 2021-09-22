@@ -1,3 +1,21 @@
-numpy
-pandas
+jupyterlab>=3.1.10
+jupyterlab-language-pack-pl-pl
+jupyterlab-language-pack-zh-cn
+jupyterlab-language-pack-fr-fr
+dask-labextension
 jupyterlab-link-share
+# LSP
+jupyterlab-lsp
+autopep8
+flake8>=3.8.0
+pycodestyle>=2.6.0,<2.7.0
+pydocstyle>=2.0.0
+pyflakes>=2.2.0,<2.3.0
+pylint>=2.5.0
+yapf
+rope>=0.10.5
+git+https://github.com/krassowski/python-language-server.git@main
+# other extensions
+jupyterlab-git
+jupyterlab-spellchecker
+jupyterlab-spreadsheet-editor
