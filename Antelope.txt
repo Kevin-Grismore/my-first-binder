@@ -1,0 +1,1617 @@
+permitYear	Permit Type	FullName	firstName	middleName	lastName	Suffix	street	city	state	zip
+2020	Antelope	Non-Resident Landowner Archery-LO- Antelope	Joel		Thomsen	NULL	10647 Wyoming rd	EDGEMONT	SD	57735
+2020	Antelope	Non-Resident Landowner Archery-LO- Antelope	Lucas	A	Schumacher	NULL	11039 Rifle Ct	COMMERCE CITY	CO	80022
+2020	Antelope	Non-Resident Landowner Archery-LO- Antelope	David		Harmon	NULL	20992 County Road 22	HUDSON	CO	80642
+2020	Antelope	Non-Resident Landowner Archery-LO- Antelope	Stephanie		Harmon	NULL	20992 County Road 22	HUDSON	CO	80642
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gatlin	d	Healy	NULL	2235 E 2300 AVE	SAINT ELMO	IL	62458
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Alex	M	Johnson	NULL	105 Hillcrest Ave.	BARNEVELD	WI	53507
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	brandon	j	kline	NULL	2733 US 62 	DUNDEE	OH	44624
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brandon		Lenczner	NULL	3290 E. James Dr	OAK CREEK	WI	53154
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dakota		Leuzinger	NULL	2821 County Road K 	BARNEVELD	WI	53507
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	brent		mast	NULL	4212cr168 millersburg oh	MILLERSBURG	OH	44654
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nicholas	L	Mast	NULL	3338 COUNTY RD 160	MILLERSBURG	OH	44654
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Blake		Brown	NULL	4335 131st street 	CHIPPEWA FALLS	WI	54729
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Trey	R	Gordon	NULL	3287 County Highway H South 	Ridgeway	WI	53582
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kaden	S	Kittleson	NULL	10073 county road A	MOUNT HOREB	WI	53572
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	travis		leuzinger	NULL	1204 GREEN VALLEY ROAD	MOUNT HOREB	WI	53572
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tommy		Nelsen	NULL	6N467 E Ridgewood Dr	SAINT CHARLES	IL	60175
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Justin		Padgett	NULL	1364 CHAMBLEE gap road	Cumming	GA	30040
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Seth	C	Steinbach	NULL	1754 Adair Union St.	CRESTON	IA	50801
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Preston		Bagley	NULL	211090 Elder Maple Dr	ELAND	WI	54427
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dalton	j	Bradley	NULL	646 W Locust	PARIS	MO	65275
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Noel	T	Conway	NULL	21875 Lawrence 2080	ASH GROVE	MO	65604
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Derek		Czaplinski	NULL	7577 County Road Z	CUSTER	WI	54423
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	tyler		dameron	NULL	39002 S 4220 RD	INOLA	OK	74036
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	CAMPBELL	E	DUNN	NULL	5618 HOUNDMASTER RD	MIDLOTHIAN	VA	23112
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Austin	T	Johnson	NULL	719 blue mounds street	MOUNT HOREB	WI	53572
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Marty		Koehl	NULL	45857  325th St.	Hancock	MN	56244
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob		Pagels	NULL	5990 Lakewood Rd	HAZELHURST	WI	54531
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kent	A	Piskie	NULL	4090 Quail Trap Rd	Poplar Grove	IL	61065
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Cole		Tackmier	NULL	250 south wood ave	PESHTIGO	WI	54157
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Griffin	C	Unterreiner	NULL	1691 REAVIS MOUNTAIN ROAD	BALL GROUND	GA	30107
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Blake		Williamson	NULL	3803 Bethel Road	BUCYRUS	OH	44820
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joel		Wingard	NULL	59115 CR 33	Middlebury 	IN	46540
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Zouski	NULL	W689 oak shore dr	FALL RIVER	WI	53932
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Edward		Arkenau	NULL	792 w 900 n 	FORTVILLE	IN	46040
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tyler		Babbitt	NULL	2260 SW Greenlawn Rd	COLUMBUS	KS	66725
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Blake	D	Becker	Sr	2595 Mohawk rd 	CANTON	KS	67428
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joseph		Bryson	NULL	3215 Garner Ave	AMES	IA	50010
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tanner	K	Clem	NULL	25560 Pleasant Park Road	Fort Collins	CO	80526
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tanner	G	Clements	NULL	404 Andrew St	BANGOR	WI	54614
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Dructor	NULL	202 Bass Rd	FALLS	PA	18615
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	ROWDY	A	KOCHEVAR	NULL	N3636 Ypma Rd	TONY	WI	54563
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob	R	Reinerts	NULL	1301 N Crater Ave	DOVER	OH	44622
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew		Schoemaker	NULL	21347 Road W	Fort Morgan	CO	80701
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	david	D	yoder	NULL	1120north1150west	MIDDLEBURY	IN	46540
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gabriel		Cox	NULL	20398 Hwy C	LAWSON	MO	64062
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob	A	Doll	NULL	378 DUNCAN ST	HAWK POINT	MO	63349
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Evan	C	FUhs	NULL	"1601 HENRY JOHNS BLVD, APT 5"	BANGOR	WI	54614
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Daniele		Halverson	NULL	S12810 County Line Road	Lone Rock	WI	53556
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher		James	NULL	700 12th Avenue 	Erie	IL	61250
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William		Leimberg	NULL	1840 Watkins Road 	HARRISON	AR	72601
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	NICK	S	marsilio	NULL	"364 Lake Meade Drive, --"	EAST BERLIN	PA	17316
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jordan		McCall	NULL	259 Fiore Lane	HOLLIDAYSBURG	PA	16648
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kyle	W	Overkamp	NULL	209 W 6TH ST	HERMANN	MO	65041
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Caleb	A	Petersen	NULL	1214 Timber LN	GLENWOOD	IA	51534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Colton		Sullivan	NULL	404 oak park dr	BARNEVELD	WI	53507
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Austin		Tibbott	NULL	140 pinewood ln	NORTHERN CAMBRIA	PA	15714
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Mark	J	Barrett	NULL	1358 Park Row	Lakewood	OH	44107
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeromy		Bartz	NULL	2611 Players Circle 54	MANHATTAN	KS	66503
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ryan		Bernskoetter	NULL	22558 South Westbrook Drive	HARTSBURG	MO	65039
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	GARRETT	 	CROWLEY	NULL	W1145 BADGER RD	FOUNTAIN CITY	WI	54629
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kyle	V	Heidlage	Sr	2580 wildlife way	New Richmond 	OH	45157
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Steven		Hoover	NULL	2900 Saunders Settlement Rd	SANBORN	NY	14132
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tristan	J	Ivkov	NULL	94 Overland Dr.	Ward	CO	80481
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Miranda		Possley	NULL	3228 Meadow Cir	GREEN BAY	WI	54311
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Caleb		Rahn	NULL	1245 Denniston Ave	BETTENDORF	IA	52722
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kimberly		Stout	NULL	134 Evangel Park Road	TOWER CITY	PA	17980
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Katheryn		Van Slyke	NULL	7509 Nolensville Rd	NOLENSVILLE	TN	37135
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Mark	D	Yoder	NULL	1120n1150w	MIDDLEBURY	IN	46540
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joe		Adamson	NULL	1424 nw 63rd st	KANSAS CITY	MO	64118
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Cole	D	Cameron	NULL	1572 lamotte circle	HUGO	MN	55038
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Alexander		Churchill	NULL	3933 N Maryland Avenue	MILWAUKEE	WI	53211
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Blake	W	Clemmons	NULL	1300 miller street	bethany	MO	64424
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	trevor	a	day	NULL	10215 MARTINSVILLE RD	BOONVILLE	MO	65233
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Cody	W	falkers	NULL	993 Cedar Valley Rd	Tipton	IA	52772
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brandon		Fullmer	NULL	411 E 8th St	Pine Bluffs	WY	82082
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Olivia	D	Gower	NULL	149 sacks run rd	KINGWOOD	WV	26537
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew		Murguia	NULL	25437 W. 146th st.	Olathe	KS	66061
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nicholas	M	Porter	NULL	1629 S MICHIGAN AVE	BOISE	ID	83706
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew	M	stoltz	NULL	N2765 timber ln	WEYAUWEGA	WI	54983
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	steven		Yoder	NULL	1090 n 1150 w	MIDDLEBURY	IN	46540
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Austin		Barnes	NULL	3385 mayfield hwy	BENTON	KY	42025
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Shannon		ehardt	NULL	4555 N Glendale St	Bel Aire	KS	67220
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		James	NULL	1004 main street	Erie 	IL	61250
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Samuel		less	NULL	3035 Brunner BLVD 	JOHNSTOWN	CO	80534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert	Z	Loomis	NULL	185 Montag Cir NE Unit 305	ATLANTA	GA	30307
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jonathan		Mabry	NULL	1925 Burke Hollow Rd	NOLENSVILLE	TN	37135
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Vincent		Madden	NULL	N8682 German St	MAYVILLE	WI	53050
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Shane		Meenen	NULL	1991 Hazelnut Rd	HIAWATHA	KS	66434
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	A	Missildine	NULL	1213 country acres Ct.	JOHNSTOWN	CO	80534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joseph		Rensch	NULL	12343 w farm road 194	BILLINGS	MO	65610
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tyler		Vaness	NULL	2786 allouez ave	GREEN BAY	WI	54311
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Daniel		Weaver	NULL	4860 N 850 W	SHIPSHEWANA	IN	46565
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew	R	Wehrheim	NULL	15165 N Concordia Ln	WOODLAWN	IL	62898
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Todd		Wienkes	NULL	1812 Grandview Dr	EAU CLAIRE	WI	54703
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Drew		wilson	NULL	2528 S Crooked Rd.	WAYNETOWN	IN	47990
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Thomas	G	Wilson	NULL	300 baker Britt road	THOMASTON	GA	30286
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Lukas		Wyss	NULL	3123 Bristol Ridge Rd	YORKVILLE	IL	60560
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jessica		Auen	NULL	518 North 2nd ave	Logan	IA	51546
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob		Balthazor	NULL	3092 noble court 	BOULDER	CO	80301
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	JOSHUA	E	BOGATZ	NULL	614 high prairie PL	TONGANOXIE	KS	66086
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William		Bunselmeyer	NULL	4458 East Farm Road 132	SPRINGFIELD	MO	65802
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Garrett		Buzzard	NULL	2285 E 2300 ave 	SAINT ELMO	IL	62458
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Danny	J	Griffin	NULL	N7173 POSTEL RD	NEW LONDON	WI	54961
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Logan	M	Gushiken	NULL	1313 Merle Hay Road	DES MOINES	IA	50311
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Spencer	N	Humphrey	NULL	1919 Garden St.	DULUTH	MN	55812
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	ANDREW	W	KELLY	NULL	5900 Four Seasons Drive	SIOUX CITY	IA	51106
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ian		Ketterman	NULL	1521 High Dr	LEXINGTON	MO	64067
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Justus	K	Leimbach	NULL	"2907 W 81st Avenue, Apartment B"	Westminster	CO	80031
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Josh		Oney	NULL	2900 rome greenwich rd	GREENWICH	OH	44837
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Hunter		Pickett	NULL	1730 County Rd. 20.5 	LONGMONT	CO	80504
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tyler	M	Senjem	NULL	"825 4th St NE, Apt 2"	Minneapolis	MN	55413
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Mike	W	Stoltz	NULL	227 n briggs st.	HORTONVILLE	WI	54944
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert	D	Sylvester	NULL	214 North Jasper Street	MONROE	IA	50170
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Isaac		Wienkes	NULL	1220 W County Rd E	LIVINGSTON	WI	53554
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew		Diffenderfer	NULL	510 Martin	PERRY	MO	63462
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob	C	Gargano	NULL	159 W Rainbow St	DULUTH	MN	55811
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dylan		Gaudineer	NULL	7245 NE 114th Ave 	BONDURANT	IA	50035
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Seth	A	Gower	NULL	149 sacks run rd	KINGWOOD	WV	26537
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nathan	P	Heikkila	NULL	7042 E Hoxie Rd	Cedar	MI	49621
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Harley		Johnson	NULL	710 Lindsey Rd	GRAND RIVERS	KY	42045
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Melissa		Mancl	NULL	526 Haynes St.	MILLADORE	WI	54454
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Austin		Mangels	NULL	6223 Eastview Ave SW	CEDAR RAPIDS	IA	52404
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Lucas	t	Mitchell	NULL	29257 Mexico rd	PERRY	MO	63462
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Allen		Overkamp	NULL	209 West 6th Street	HERMANN	MO	65041
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher		Roholt	NULL	16730 Pratt St. 	GARDNER	KS	66030
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Eric		Schemmel	NULL	W340 Potter Rd	BURLINGTON	WI	53105
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bradon		Schn	NULL	110 3rd St	OVID	CO	80744
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Anastasia	L	Swerczek	NULL	54932 Emerald Ln	Glenwood	IA	51534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David		Villagomez	NULL	616 broad st	MENASHA	WI	54952
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Emily	A	Woltemath	NULL	3096 300th Ave	Hamburg	IA	51640
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Candler		Atcheson	NULL	431 Spring View Court	DALLAS	GA	30157
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joey		Auen	NULL	307 S Gates St	Oakland	IA	51560
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Adam	J	Brickheimer	NULL	10102 Standing Oak Drive	SCHOFIELD	WI	54476
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew		Evrard	NULL	19 Country Ln	LESLIE	MO	63056
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	JAMESON	P	FARINOSI	NULL	7970 UTHE DR	NEWAYGO	MI	49337
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	NATHAN	m	fitzsimmons	NULL	306 hill street	rock springs	WI	53961
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Gardner	NULL	14575 NW 128th st	MADRID	IA	50156
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Shane		Gifford	NULL	16717 Thompson ridge road	Laurelville	OH	43135
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Greg		Harris	NULL	1207 Hwy 15	ABILENE	KS	67410
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Lane		Koch	NULL	420 E 78th Terr. 	KANSAS CITY	MO	64131
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Randal	S	Layman	NULL	592 Old Railroad Bed Rd	FAYETTEVILLE	TN	37334
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Trentin	D	Morris	NULL	1004 North Monroe St	LITCHFIELD	IL	62056
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	A	Pedretti	NULL	S5814 Malphy Lane	DE SOTO	WI	54624
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kristopher		Pingel	NULL	310 W Harrison St	BLUE GRASS	IA	52726
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David		Schwartz	NULL	P.O. Box 30	GREENFIELD	IA	50849
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	matthew		shutter	NULL	2000 oak hill rd	ALPINE	NY	14805
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob		Snedden	NULL	7409 E 83rd PL N	OWASSO	OK	74055
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	MARK	J	SWERCZEK	NULL	54932 Emerald Lane	GLENWOOD	IA	51534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	zebulon	z	williams	NULL	35071 S 4467 RD	VINITA	OK	74301
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ashley		Zachman	NULL	3609 Kadler Ave. NE	SAINT MICHAEL	MN	55376
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Cole		Zimmer	NULL	953 East 136th	GRANT	MI	49327
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gregory		Burroughs	NULL	325 Banister Rd	GREENBRIER	AR	72058
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ryan		Deegan	NULL	14055 eagle ridge rd	FERRYVILLE	WI	54628
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	LARRY	B	LANGE	NULL	2352 130th Ave 	Lake park	IA	51347
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Martin		moore	NULL	5165 Davis mill RD NW	Ramsey	IN	47166
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gavin		Sappier	NULL	610 storer rd	BRADFORD	ME	4410
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Patrick		Troup	NULL	613 n portage st	DOYLESTOWN	OH	44230
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Lucas		Youngblom	NULL	18063 Raymond Ave	RICHMOND	MN	56368
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	ANTHONY	J	BOWEN	NULL	3871 Greentree Rd.	STOW	OH	44224
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Alec	R	Bussman	NULL	13573 80th St SE	MILNOR	ND	58060
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Spencer		finkbeiner	NULL	196 Exchange	GRANT	MI	49327
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Doug		Gies	NULL	N1987 Winchester Road	Hortonville	WI	54944
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tanner	A	Hinton	NULL	PO Box 504	PINE BLUFFS	WY	82082
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ryan	D	Hogg	NULL	320 Lakewood Rd	TWIN LAKE	MI	49457
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Lucas	L	Kelley	NULL	1 Amelia Circle	Bella Vista	AR	72715
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Chris		Kerber	NULL	304 SW Mills Street	Greenfield	IA	50849
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Anthony		klenke	NULL	327 wittenborn dr	union	MO	63084
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Steven		KUkla	NULL	4406 highway c	GERALD	MO	63037
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Nelson	NULL	2912 NE Chester St	Topeka	KS	66617
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kyle		Parker	NULL	7330 N COON LANE	WILLARD	MO	65781
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ryan	M	Schuman	NULL	1308 Sawmill Creek Rd	Sitka	AK	99835
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	kile	W	Westerman	NULL	3121 State Route 150	CHESTER	IL	62233
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nathan		Adamson	NULL	310 N Washington 	MANSFIELD	IL	61854
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Travis	L	Bolejack	NULL	3737 Mccaslin BLVD	Louisville	CO	80027
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	nathan		card	NULL	899 e. airfield rd	GWINN	MI	49841
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeremy	R	Childress	NULL	820 S 11TH ST	ROGERS	AR	72756
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	derek	t	eason	NULL	8035 sw 801 rd	EL DORADO SPRINGS	MO	64744
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jonas		Graber	NULL	Hillpoint Rd	HILLPOINT	WI	53937
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew	S	Klein	NULL	4730 E. Euclid Ave.	WICHITA	KS	67217
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Zachary		Kumbier	NULL	S86W27655 Hartwig Ave	MUKWONAGO	WI	53149
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Patrick	R	Leatherwood	NULL	13386 roland david rd	Pea Ridge	AR	72751
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brian		Lee	NULL	4725 Garden Ranch Drive #M307	Colorado Springs	CO	80918
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Lucas		Pontier	NULL	2615 W 10th Ave	INDIANOLA	IA	50125
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Casey	L	Robinson	NULL	3574 310th St	DEXTER	IA	50070
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Travis	P	Sample	NULL	4625 scott st	Davenport	IA	52806
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	jeremy		strunk	NULL	n4596 indian point rd	sullivan	WI	53178
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Clint		Underwood	NULL	3007 N 24th St	OZARK	MO	65721
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Westin		Yancey	NULL	155 Elk Creek Rd	Highlandville	MO	65669
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Spencer		brown	NULL	5 Lost Creek Ln	CONCORDIA	KS	66901
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	SEAN	W	CHRISTENSEN	NULL	200 E Valley View Dr	Avoca	IA	51521
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	matthew	w	dykes	NULL	13907 Ironstone Trail NW	Ramsey	MN	55303
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Chase	A	Garvin	NULL	38502 Wagner Rd	DEXTER CITY	OH	45727
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob	W	gilbert	NULL	8895 Sheets Rd	Oakley	IL	62501
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Peter	A	Hall	NULL	65 Hummingbird Lane	PORT MATILDA	PA	16870
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Johnny		Kauffman	NULL	572 SW 25th St	TRENTON	MO	64683
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	cody		klima	NULL	1127 Michigan Ave	WATERVILLE	OH	43566
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kile	D	Kluck	I	1370 Lyric Ct.	BOONVILLE	MO	65233
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Trevor	M	Martin	NULL	"5120 E Aire Libre AveScottsdale, AZ 85254, 5120 E "	Scottsdale	AZ	85254
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joshua		Mitchell	NULL	2928 80 th st nw	MAPLE LAKE	MN	55358
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jared		Murray	NULL	206 Chesnut	HOPKINTON	IA	52237
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	chad		siemianowski	NULL	6359 ibex ave	SPARTA	WI	54656
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Devin		Szutkowski	NULL	W19040 Cedar Ln	Eland	WI	54427
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Adam	M	Bacon	NULL	46 BACON RIDGE	Sidney	ME	4330
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Blakely	NULL	44 Fenner Ln	GREENBRIER	AR	72058
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	BRETT	M	CIACCIO	NULL	58255 305th Street	Malvern	IA	51551
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joel		Florez	NULL	2505 southridge dr apt b	JEFFERSON CITY	MO	65109
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jason	D	Folgate	NULL	25154 East 350TH Street	BETHANY	MO	64424
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Scott		Gray	NULL	29947 West Jade Road	BETHANY	MO	64424
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	MARCUS	D	HONABARGER	NULL	26441 TOWNSHIP ROAD 37	COSHOCTON	OH	43812
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Thomas		Irwin	NULL	2781 Ingalls Road	LESLIE	MI	49251
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nickolas	J	Kannawin	NULL	4504 West Battle Rd	FARWELL	MI	48622
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	richard		mandau	NULL	9750 camp ohio rd 	UTICA	OH	43080
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nathan		Mullen	NULL	7589 Sugar Creek Dr	YOUNGSTOWN	OH	44512
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	chance		ray	NULL	345 duncan creek rd.	KIRKSEY	KY	42054
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew		Seabrooke	NULL	325 S PARK ST	EARLVILLE	IA	52041
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jon		Stephens	NULL	3109 Lamborn Ave	SUPERIOR	WI	54880
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	bradley		strawser	NULL	18056 route 235	MILLERSTOWN	PA	17062
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brian		stueve	NULL	52453 221st St	Glenwood	IA	51534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Carlos Sebastian		Alvarado	NULL	5743 W John St	LUDINGTON	MI	49431
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joshua	J	Bujalski	NULL	307 Valley Ridge Rd	BLUE GRASS	IA	52726
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Charles	M	Calvert	II	4108 NE 94th Terrace	KANSAS CITY	MO	64156
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert		Carter	NULL	726 Eupeptic Springs Road	OLIN	NC	28660
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Josh	J	Dahlke	NULL	3222 Oak View Dr	Woodbury	MN	55129
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeffrey		Daley	NULL	4634 Walz Rd	JACKSON	MI	49201
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Charles	F	Duld	NULL	26074 Sennett rd	DENTON	MD	21629
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Allen	l	Eveland	Sr	215 williams rd silex	SILEX	MO	63377
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Daniel		Green	NULL	1303 LOCKE ST	JERSEYVILLE	IL	62052
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	adam		kane	NULL	3015 Valley St. 	BLACK EARTH	WI	53515
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joseph	D	Lemperes	NULL	34934 Goose Haven Road	Albany	MN	56307
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	WILLIAM	J	LENHART	NULL	2080 Dike Road	PERCIVAL	IA	51648
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joseph		Lewis	NULL	658 Boulevard SE	ATLANTA	GA	30312
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob		McInnis	NULL	3 Finch Ln	MANDEVILLE	LA	70471
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew	J	Mohning	NULL	1209 Grandview Dr.	Beresford	SD	57004
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	michael		sobieraj	NULL	5485 Kodiak Trail	Auburn	IN	46706
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew		Woolstenhulme	NULL	PO Box 912	COALVILLE	UT	84017
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	JOSEPH	G	Bucci	NULL	4832 N MELVINA AVE	CHICAGO	IL	60630
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Adam		Hamilton	NULL	2762 Easy Grafton Road	FAIRMONT	WV	26554
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert	G	Humphrey	NULL	565 CO RD 329	New Franklin	MO	65274
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Justin		Kane	NULL	708 Forest Edge Dr	Mazomanie	WI	53560
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Arliss	D	Reed	NULL	4801 State Hwy 30	ESPERANCE	NY	12066
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Cole	E	Shultz	NULL	7752 S 725 W 	Hudson	IN	46747
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Geoff		Sterner	NULL	4281 fm 876	WAXAHACHIE	TX	75167
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brandon		Tallman	NULL	850 w 300 s 	CRAWFORDSVILLE	IN	47933
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Steven	B	Wilbanks	NULL	1808 County Road 83	Pisgah	AL	35765
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dallas		Wright	NULL	16204 Colonial Drive	WILLIAMSBURG	OH	45176
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Russell	R	Wright	NULL	928 Kyle Ave	CASHTON	WI	54619
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	E	Bowers	NULL	960 Mulberry creek Road	NORTH WILKESBORO	NC	28659
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	NICHOLAS	M	Crafts	NULL	139 DOVER HILL	E DOVER	VT	5341
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Eric		Emelander	NULL	306 E. Spruce street	GILLESPIE	IL	62033
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Marcus	J	Englert	NULL	122 Danielle Drive	Pleasant Gap	PA	16823
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kenna		Haase	NULL	4688 East 500 south	ROCKVILLE	IN	47872
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher		Hale	NULL	N365 Cold Spring Rd	Whitewater	WI	53190
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Marion		Kramer	NULL	502 SW 56th St	JAMESPORT	MO	64648
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	C	Landau	NULL	1619 W 19th St	Cedar Falls	IA	50613
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Daniel		Nelson	NULL	320 N Lewis st	LUDINGTON	MI	49431
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	a	owens	NULL	1968 Geneva Hills Rd	MUSCATINE	IA	52761
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bradley		Pettit	NULL	7510 Puerto Rico Dr	Buena Park	CA	90620
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Young	NULL	1210 Lanceleaf CT	Elizabeth	CO	80107
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew	R	Benfield	NULL	1049 Daugherty Rd	China Grove	NC	28023
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Adrienne	D	Brown	NULL	211 Shadow Wood Dr	SUGAR LAND	TX	77498
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	brent	m	burgdorf	NULL	545 4th avenue s.w.	PLAINVIEW	MN	55964
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Timothy		Fabbri	Jr	245 Hilltop Rd	LILLY	PA	15938
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	william		haase	Jr	4688 E 500 S	Rockville	IN	47872
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	James		Harbaugh	NULL	47668 220th Ave 	ZUMBROTA	MN	55992
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bryan	J	Hum	NULL	9443 Sharrott Road	YOUNGSTOWN	OH	44514
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tyler	J	Jacobsen	NULL	24629 435th Ave.	Canova	SD	57321
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brenton		Jarrett	NULL	2118 NC 152 west	CHINA GROVE	NC	28023
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Frank	D	Jasa	IV	1613 Whispering Creek Dr	BALLWIN	MO	63021
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Adam	Y	Kloepping	NULL	1013 Yorkshire Ave	RICE LAKE	WI	54868
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Stacy		Kozlovsky	NULL	9876 County Road M	SURING	WI	54174
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Taylor		Lee	NULL	16825 N 14th St	Phoenix	AZ	85022
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew	L	Meyer	NULL	2590 Z Road	Webber	KS	66970
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeremy		Reinitz	NULL	13918 65th st	GLENCOE	MN	55336
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bryan		Schultz	NULL	303 Ellinwood Ave	REEDSBURG	WI	53959
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Thomas		Shaw	NULL	3402 GOLDEN CURRANT BLVD	FT COLLINS	CO	80521
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Frederick	R	Swihart	II	1375 New Liberty Road	NEW LIBERTY	IA	52765
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Aris		Tsaras	NULL	679 VLASTA CT	VALPARAISO	IN	46385
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dustin		Waters	NULL	6625 S Lakewinds Blvd	KNOX	IN	46534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Paul		Amstutz	NULL	3311 S. 144th E. Pl.	TULSA	OK	74134
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew		Bradley	NULL	3508 Big Bear Ct	WENTZVILLE	MO	63385
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Scott	M	Coalter	NULL	106 e Roosevelt rd	DANVILLE	IA	52623
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nicklas		Ehrhart	NULL	12515 Grant Shook Rd 	GREENCASTLE	PA	17225
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	jesse		farley	NULL	9306 w 98th ct	BROOMFIELD	CO	80021
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Reginald	J	Freilinger	NULL	227 Scott Hollow Rd	MONONA	IA	52159
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joshua		Gabel	NULL	2526 Sandrock road	EDEN	NY	14057
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Alexander	M	Harvey	NULL	W6202 State Rd. 23	Princeton	WI	54968
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew	D	Kirchner	NULL	15365 S. Hallet St	OLATHE	KS	66062
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brian	A	Kraemer	NULL	hillhaven Dr	COLD SPRING	MN	56320
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	scott	t	marsden	NULL	1941 clearwater road	waconia	MN	55387
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert	A	Nicholson	II	6730 Carol Plantation Rd	THEODORE	AL	36582
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Richard		Rients	NULL	20145 Ridge Road 	ELYSIAN	MN	56028
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Scott	J	sainsbury	NULL	18894 Excalibur Tr	Farmington	MN	55024
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew	C	Axtell	NULL	115 west houstonia ave	Royal Oak	MI	48073
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jon	D	Emerson	NULL	2215 Friendship Drive	New Concord	OH	43762
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Todd	D	FULLER	NULL	4232 98th Ave N	MOORHEAD	MN	56560
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Vernon		Luce	NULL	6709 Pirate Perch Trail	BRADENTON	FL	34202
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joshua	J	Selck	NULL	645 Wildfire Lane	Milton	WI	53563
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher	S	Sprangers	NULL	W347N5846 Foxglove Court	Oconomowoc	WI	50366
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bradley		Sutek	NULL	N4483 Schacht Rd	MARINETTE	WI	54143
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tyler		Triepke	NULL	412  Sequoia Dr.	MAPLETON	ND	58059
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew		Tucker	NULL	1104 Kennedy Dr	STAR CITY	AR	71667
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	JOSHUA	G	BRADLEY	NULL	106 Railway Ln	Crandon	WI	54520
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher	M	Brown	NULL	211 Shadow Wood Dr	SUGAR LAND	TX	77498
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	James	E	Dunlap	Jr	906 6th street	CORNING	IA	50841
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dirk		Epperson	NULL	9228 Brier Road	LA MESA	CA	91942
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nathan		Foster	NULL	1678 Pheasant Ridge Dr	LINCOLN	IL	62656
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Amanda		Gamble	NULL	119 Betz Rd	Columbus	OH	43207
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	adam	m	grimes	NULL	1766 SE Offutt RD	MAYSVILLE 	MO	64469
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher	W	Kuebler	NULL	651 BIG BEND DRIVE	Wentzville	MO	63385
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bradley	j	Looze	NULL	3214 old gate rd	Madison	WI	53704
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Sandra	O	mace	NULL	2811 s 13th st	Council Bluffs	IA	51501
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Roger	D	Plunkett	NULL	2111 S. Silver Island Rd	COVINGTON	IN	47932
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Levi	m	Rutherford	NULL	8150 County Road 62 	SAVANNAH	MO	64485
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	josh	l	schmeltz	NULL	678w 1050n	BLOOMINGDALE	IN	47832
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David		Woodworth	NULL	1617 Inwood Ave	ANGOLA	NY	14006
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	James		Adams	NULL	1008 Cedarmont Dr	ADAMS	TN	37010
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Thomas	j	blazon	Jr	1215 MacDee Ct	Dacono	CO	80514
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Charles		Brockman	II	224 Ralston Rd	Machesney Park	IL	61115
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ronald		Carman	Jr	3539 E Stafford Rd	ITHACA	MI	48847
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew		Dancy	NULL	1493 Oil Creek Rd	ORLANDO	WV	26412
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gerald	G	gelhaar	III	23852 Scenic View Drive	ADEL	IA	50003
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William	R	Gryczkowski	NULL	8889 Grand Ave	ARGONNE	WI	54511
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Wesley	J	Jones	NULL	24805 200th st	Bloomfield	IA	52537
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gavin		pau	NULL	409 Charles Street	GILLESPIE	IL	62033
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew	R	Peterman	NULL	306 Randolph Street	Bedford	IA	50833
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Adam	O	Rodgers	NULL	203 East Golden Ave.	EL DORADO SPRINGS	MO	64744
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	J	Rogalla	NULL	222 Eveleth Ln.	DULUTH	MN	55810
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew		Treguboff	NULL	135 wabaunsee	HARVEYVILLE	KS	66431
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	chad		westphal	NULL	28661 N. 71st St.	SCOTTSDALE	AZ	85266
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Anthony	L	Barthel	NULL	16480 73rd Avenue North	OSSEO	MN	55311
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Charles		Brewer	NULL	147 West Oak St	HARVEYVILLE	KS	66431
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Edward	D	Cain	NULL	4012 Cisco Road	Cairo	WV	26337
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David	K	Gabriel	NULL	9515 County Road 427	Savannah	MO	64485
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Scott		pratcshler	NULL	183 BOYDS MILLS RD	BEACH LAKE	PA	18405
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	karen	w	rickles	NULL	50182 hwy 49	CRAGFORD	AL	36255
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeffrey		Whisnant	NULL	W16981 Country Road F	STANLEY	WI	54768
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	joe	r	buehler	NULL	208 S PAYTON DRIVE	OKAWVILLE	IL	62271
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Terry		Harris	NULL	"299 , Calebs Lane"	SYMSONIA	KY	42082
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew		Johnson	NULL	6831 Honeysuckle Trail	BRADENTON	FL	34202
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bobby		Lewis	NULL	51 Riverside Drive	OAK RIDGE	TN	37830
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	greig	f	mcalpin	NULL	1402 west 11th street	Loveland	CO	80537
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	MICHAEL	L	NELSON	NULL	PO Box 73	KIRWIN	KS	67644
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Andrew	J	Plathe	NULL	1830 190th ave	MILFORD	IA	51351
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert		Walker	NULL	505 West H Ave	ALex	OK	73002
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brendan	j	brown	NULL	300 East Lamphere Drive	Blue Grass	IA	52726
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Scott		Elliott	NULL	PO Box 361 Railroad Street	CAIRO	WV	26337
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Evan		Eschmeyer	NULL	8321 Baseline Rd	Boulder	CO	80303
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	michael	C	kitcho	NULL	1682 fillner aveNUE	NORTH TONAWANDA	NY	14120
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Eric		McKenna	NULL	49563 Sakatha lane	Waterville	MN	56096
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Danny		Notsch	NULL	33272 105 ave N	SAINT JOSEPH	MN	56374
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Melvin	R	Purvis	NULL	7620w 1000s-90	Warren	IN	46792
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Steven	J	Rodgers	NULL	1202 PIKE LAKE DR	SAINT PAUL	MN	55112
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jason		Session	NULL	902 W Michigan	STUTTGART	AR	72160
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Travis		Showalter	NULL	7839 SHIVELY RD	HUNTINGDON	PA	16652
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ben		Slemmer	NULL	9286 Zimmerman Rd. 	DORSEY	IL	62021
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher		Swanson	NULL	8113 rock riffle rd	ATHENS	OH	45701
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Thomas		TeStroete	NULL	910 Esslink Ln	CEDAR GROVE	WI	53013
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William	L	Brown	III	355 NW 3rd	KREBS	OK	74554
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	GENE	P	CHARTIER	NULL	10135 N Maywood Ave	Kansas City	MO	64157
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Shane		Hansen	NULL	9866 30th Avenue	REMUS	MI	49340
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jacob	D	mersberger	NULL	2661 Mayer Ln E	Maplewood	MN	55119
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	brian		Rapp	NULL	7105 walnut street	KANSAS CITY	MO	64114
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William	R	simons	II	2500 Sunny Side Lane	Atlantic	IA	50022
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ryan	L	Such	NULL	4269 66th st s	FARGO	ND	58104
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeremy	A	Angel	NULL	3120 Jonesville Rd	JONESVILLE	MI	49250
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	MARC		DILULLO	NULL	49863 135TH TRAIL	LUCAS	IA	50151
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Canisius		Johnson	NULL	43997 Barneys Dr	Soldiers Grove	WI	54655
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William	D	king	Jr	4041 Hwy 19	OWENSVILLE	MO	65066
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Clint	R	Laybourn	NULL	346 South St.    P.O. Box 132	Kingston	WI	53939
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Edward		McClain	NULL	2424 Port Clinton Rd	FREMONT	OH	43420
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Mike		Pelletier	NULL	217 West E St.	Iron Mountain	MI	49801
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Alan		Rickles	NULL	50182 hwy 49	Cragford	AL	36255
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brandon		Schwent	NULL	P.o Box 674	CUBA	MO	65453
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	shawn	a	severe	NULL	1099e 700s	Wolcottville	IN	46795
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jesse		Siler	NULL	252 N 240TH RD	SOLOMON	KS	67480
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joe		Bufford	NULL	5060 Russellville Road	HOPKINSVILLE	KY	42240
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	shannon	c	carbaugh	NULL	14717 st paul rd	Clear Spring	MD	21722
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	D	Coats	NULL	3324 Rawlings drive	SPRINGFIELD	IL	62704
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	JAMES	G	DIRKES	NULL	17543 CO. RD 76 S.E.	Osakis	MN	56360
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Aron	N	Johnson	NULL	209 S. Rosemont Ave	Dallas	TX	75208
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher	L	McCool	NULL	528 Greene Ave North 	Oakdale	MN	55128
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Douglas		Nelson	NULL	1916 diana drive	LOVELAND	CO	80537
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeffrey		Rapp	NULL	1218 SW COUNTY ROAD 107	BUTLER	MO	64730
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kevin		Schober	NULL	5237 County Hwy S	Sparta	WI	54656
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Clay		Springer	NULL	119 Earnest Rd	CALHOUN CITY	MS	38916
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Steven	L	Cannon	NULL	12935 Rineyville Rd	VINE GROVE	KY	40175
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher		Carstens	NULL	43997 Barneys Dr.	SOLDIERS GROVE	WI	54655
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Lackey	NULL	159 West Lake Lee Rd	GREENVILLE	MS	38703
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dave		Lannan	NULL	170 Gorton Rd	MOSHANNON	PA	16859
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joseph	P	Leschisin	NULL	"279, 15 1/8th Ave."	TURTLE LAKE	WI	54889
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Richard		Locke	NULL	12830 S Mingo Rd	BixbyBIXBY	OK	74008
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Corey	A	Schoeffling	NULL	203 South Main St.	Fall River	WI	53932
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	girard		tibbott	NULL	140 Pinewood ln	NORTHERN CAMBRIA	PA	15714
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeffrey		Unterreiner	NULL	1691 REAVIS MOUNTAIN ROAD	BALL GROUND	GA	30107
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Eddie		Woodfin	NULL	423 Dogwood Street	MT CARMEL	TN	37645
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gary		Zalatan	NULL	21175 Hawkeye Road	DIXON	MO	65459
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Benedict	NULL	1652 Homestead Trail	LONG LAKE	MN	55356
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	stephen	j	bradley	NULL	2394 CR 2675	CLARK	MO	65243
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Raymond		Coker	NULL	1821 fairway st	STUTTGrtART	AR	72160
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert	J	Jany	NULL	109 Dene Dr	COLUMBIA	MO	65201
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	mike	t	kruithoff	NULL	805 w moore rd.	GRANT	MI	49327
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Toby		Medley	NULL	7248 south Richmond ave 	TULSA	OK	74136
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	timothy		moran	NULL	946A bradley rd 57	HERMITAGE	AR	71647
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tracy	J	Babcock	NULL	1192 STATE LINE RD	NICHOLS	NY	13812
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	cliff		bell	NULL	25993 sw c road	JETMORE	KS	67854
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Daniel		Blomquist	NULL	4000 Rogers Road NW	CEDAR RAPIDS	IA	52405
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dean	J	Blomquist	NULL	1509 63rd Street	SOMERSET	WI	54025
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	mike		bowen	NULL	8153 maple hill rd	HOWARD CITY	MI	49329
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	ROBERT	W	CLARK	NULL	202 N COLLEGE ST	Albany	MO	64402
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	herb	a	higgins	NULL	4772 old smith valley rd	GREENWOOD	IN	46143
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Shari		Jones	NULL	53209 160th Street	CHARITON	IA	50049
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert		Nelson	NULL	1611 W Warren St	Boise	ID	83706
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	kevin	l	pearce	NULL	9227 hogan rd	FENTON	MI	48430
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jason	M	Baldwin	NULL	1052 W Albion Ave 	Chicago	IL	60626
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Patrick		Busey	NULL	PO Box 102	HARVEYVILLE	KS	66431
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dean	e	Crawford	NULL	37026 Benedict st	CONCEPTION	MO	64433
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Craig	C	Harris	NULL	1090 Decker Hollow Road	TYRONE	PA	16686
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David	E	Leyshlon	NULL	202 Bass Rd	FALLS	PA	18615
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jack	C	Gaspari	NULL	300 E. 21st Street	Sioux Falls	SD	57105
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David	F	Goetz	NULL	21614 Hannover Forest	SPRING	TX	77388
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Roger	c	LaGrange	NULL	5635 s.e. woodring rd	BERRYTON	KS	66409
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Allen	D	Moore	NULL	1481 North Adams Rd	JONESVILLE	MI	49250
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brian		Platt	NULL	118 Main Street 	BOONVILLE	NY	13309
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Richard		Vandergriff	NULL	527 RAMBLEWOOD DR	MOUNT CARMEL	TN	37645
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kevin	L	Wardrip	I	5425 Valley Drive #40	Bettendorf	IA	52722
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Shawn		Blanton	NULL	443 Doe Ridge Rd	Bedford	KY	40006
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	KEN	J	BOYSEN	NULL	4706 290TH	DANBURY	IA	51019
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	James		Cornell	NULL	2960 26th street	BIRCHWOOD	WI	54817
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeffery	W	Hazenfield	NULL	16080 Edgington Rd	WILLIAMSBURG	OH	45176
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Duane		Hidritch	NULL	9111 West RedOak 	ROSEBUD	MO	63091
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	david		hiser	NULL	4611 quarterline rd	KEWADIN	MI	49648
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Chris	L	Hoenig	NULL	3250 140th street	Riverside	IA	52327
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Mark	R	Kornely	NULL	5916 Pleasantview Lane	TWO RIVERS	WI	54241
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dean	H	Pugh	NULL	N3305 Island Rd.	Markesan	WI	53946
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	brian	m	tyczinski	NULL	246 vine st po box 85	Kingston	WI	53939
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kevin	D	Akin	NULL	201 Country Road 437	NEW FRANKLIN	MO	65274
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David		Argo	NULL	166 Congress Run Road	Cincinnati	OH	45215
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Marcus		Buckner	NULL	3343 Hill Station Alley Road	GATE CITY	VA	24251
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Benjamin	W	Flickinger	NULL	4401 Route	NEW FLORENCE	PA	15944
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Nick	A	harling	NULL	2210 Timberlane Terrace	SABETHA	KS	66534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Thomas	L	Johnson	NULL	4292 Hawksbury Cir	Eagan	MN	55123
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David	S	Kaiser	NULL	300 McConnell	JACKSON	MI	49201
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Terry		Martin	NULL	536 S Buchanan St	FREMONT	OH	43420
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	martin		Moore	NULL	1960 owans LN	CORYDON	IN	47112
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Paul		Nay	NULL	6202 Rockawalkin Rd	SALISBURY 	MD	21801
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dale	E	Steward	NULL	3500 N Lake Wilson Rd	Hillsdale	MI	49242
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Larry		stout	NULL	134 Evangel Park Road	Tower City	PA	17980
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Vis	NULL	404 Dammann Dr	ELDRIDGE	IA	52748
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	BRIAN	L	COAN	NULL	26 Egdewater Lane	North Sioux City	SD	57049
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	cornel	m	eis	NULL	7827-state hwy 147	TWO RIVERS	WI	54241
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	James		Hoffman	NULL	N7977 Allen Creek Road	BLACK RIVER FALLS	WI	54615
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	STEVEN	D	MAHER	NULL	714 14TH ST	ONAWA	IA	51040
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	james	j	mann	NULL	PO Box 9952	Bowling Green	KY	42102
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	EDWARD	T	MARSHALL	NULL	3895 HOFFMAN RD	WENTZVILLE	MO	63385
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Craig		Mellecker	NULL	512 El Trigo	DODGE CITY	KS	67801
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Craig		Poppinga	NULL	19762 142nd Trl	SWEET SPRINGS	MO	65351
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dave	W	Troup	NULL	185 Frederick st	Doylestown	OH	44230
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kenneth	r	brown	NULL	605 east pierce st	MULBERRY GROVE	IL	62262
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	keith	d	byrom	NULL	po box 227	Collinsville	TX	76233
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	W	Dyott	NULL	4023 Rolling Terrace Dr	Spring	TX	77388
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Marti		schaack	NULL	24630 S 647 Rd	GROVE	OK	74344
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bryce	L	winter	NULL	610 w douglas	ANDOVER	KS	67002
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dale		Brown	NULL	1333 county line rd	MULBERRY GROVE	IL	62262
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Douglas	A	Dau	NULL	25850 169th St	SPIRIT LAKE	IA	51360
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Craig	N	Gifford	NULL	24649 Narrows Road	SOUTH BLOOMINGVILLE	OH	43152
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Tony	n	joy	NULL	307 Gates Street	Oakland	IA	51560
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Susan		Kubichek	NULL	4019 Hwy NN	WEST BEND	WI	53095
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Daniel	J	Kuenzi	NULL	W6433 Sonny Drive Apt 4	MENASHA	WI	54952
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Robert		Loomis	NULL	2089 saint peters road	POTTSTOWN	PA	19465
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William		Trail	NULL	45630 TWP RD 50	Coshocton	OH	43812
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Charles		Pierce	NULL	5256 Union Cir	FLOWERY BRANCH	GA	30542
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	James		Potvin	NULL	410 5th Ave SE	SPENCER	IA	51301
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kevin		Pritchett	NULL	1544 E 1900 S	SPANISH FORK	UT	84660
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gregg		Ripp	NULL	49629 Alpine Ave N	STANCHFIELD	MN	55080
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David	B	stallings	NULL	621 Jordan Ridge Lane	RALEIGH	NC	27603
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Lesley	M	Strunk	NULL	1288 N RIVERLINE DRIVE	OCONOMOWOC	WI	53066
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gerald		DeMeyere	NULL	1352 TANGLEWOOD DR	Lapeer	MI	48446
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David	S	Dyott	NULL	421 LITCHFIELD AVENUE	Babylon	NY	11702
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Albert	A	Ketchem	NULL	849 Whitman Run Rd	Philippi	WV	26416
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael	J	Opatz	NULL	6925 240th St. E	HAMPTON	MN	55031
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew		Ax	NULL	3418 Taggett lk ct	HIGHLAND	MI	48357
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Franklin		Bunner	NULL	65 Mingo Lane	FAIRMONT	WV	26554
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David		Coolbaugh	NULL	105 Dogwood 	TUNKHANNOCK	PA	18657
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Steven	W	Cotten	NULL	P O box 168	HAMBURG	AR	71646
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Mark	G	Frizzo	NULL	1817 Sheffield Road	Birmingham	MI	48009
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Matthew	W	Gielow	NULL	44401 Manitou Drive	Clinton Township	MI	48038
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Christopher	B	Horvath	NULL	1209 S Hilltop Blvd	MCHENRY	IL	60050
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Albert	R	Kern	NULL	174 E Thomas St	WILKES BARRE	PA	18705
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Marc		Klein	NULL	1412 N. Broken Arrow Rd	PECK	KS	67120
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jeffrey		Newman	NULL	1179 220th St.	WINTERSET	IA	50273
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Timothy	F	Pontier	NULL	11067 60th Ave	PROLE	IA	50229
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Mark	L	Zimmer	NULL	PO Box 575	Grant	MI	49327
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Rick	E	Gonzalez	NULL	1260 Cardinal Crest Drive	SUN PRAIRIE	WI	53590
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Charles		McInnis	NULL	8144 Walden Rd	BATON ROUGE	LA	70808
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	jackie		melton	NULL	745 davidson cr	EDGEMONT	AR	72044
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Barry		Bacon	NULL	198 Penney road	BELGRADE	ME	4917
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Daniel		Bell	NULL	155 West Oak St	HARVEYVILLE	KS	66431
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Brian		Campbell	NULL	2180 Colladay Point Dr	STOUGHTON	WI	53589
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	calvin		mcleod	NULL	6480 N North Lake Rd	MAYVILLE	MI	48744
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Scott		Burgdorf	NULL	723 1st St	PLAINVIEW	MN	55964
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Larry		Buttry	NULL	8540 Allenbrook Dr.	WINDSOR	CO	80550
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Michael		Coss	NULL	2722 Work Road	Ravenna	OH	44266
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kenneth		Ellsworth	NULL	49283 Alpine Avenue N	Stanchfield	MN	55080
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Randy		Koehl	NULL	45857  325th St.	Hancock	MN	56244
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	LANE	L	OSTENDORF	NULL	10 Timberlane Drive	SIOUX CITY	IA	51108
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Terrance	L	Tremel	NULL	10203 Peytons Grace Lane	CYPRESS	TX	77433
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	PEGGY		VanderWeide	NULL	7336 PINE AIRE CT	JENISON	MI	49428
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William		Coppage	NULL	460 N Lake Ferguson Rd	GREENVILLE	MS	38703
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gary		Cumberworth	NULL	1607 west rooosevelt rd	PERRINTON	MI	48871
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	David	W	HOLBROOK	NULL	181 Palmer Neck Rd	Pawcatuck	CT	6379
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	daniel	l	konrade	NULL	7516 S. E. Stanley Rd	Berryton	KS	66409
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Donice	K	LaGrange	NULL	5635 SE Woodring Rd	BERRYTON	KS	66409
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	tom	f	mccullick	NULL	33634 mara lane	wauzeka	WI	53826
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	George	D	Vannatt	NULL	438 Middlehorse Creek Rd	Julian	WV	25529
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Bryan		Bacon	NULL	1303 Pond Rd	Sidney	ME	4330
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	William		Ellis	NULL	2222 Harman Rd	GREENVILLE	GA	30222
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Joseph	A	Guinn	NULL	3026 Maryland ave ne	GRAND RAPIDS	MI	49525
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Debra	J	Huskey	NULL	9270 Madras Ct.	Highlands Ranch	CO	80130
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Gerald	J	MECCA	NULL	39 Charmwood Rd	PITTSFORD	NY	14534
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Larry		Sikes	NULL	1440 SW Straka Terr	OKLAHOMA CITY	OK	73159
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jean		Coss	NULL	2722 Work Road	RAVENNA	OH	44266
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ronnie	L	Sturgeon	NULL	14743 Old Post Lane	CARTHAGE	MO	64836
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Kenneth	E	Lannan	NULL	55 Yost Rd	MILL HALL	PA	17751
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	robert	j	lynn	II	111 Mont De Marsan Dr	LAFAYETTE	LA	70507
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Thomas		McDaniel	NULL	675 Butcher Cr	ABSAROKEE	MT	59001
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Craig	A	Michel	NULL	1217 Pheasant Valley St.	IOWA CITY	IA	52246
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	THOMAS		VANDERWEIDE	NULL	7336 PINE AIRE CT	JENISON	MI	49428
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Jerry		Decker	NULL	1790 pigg hollow road	OWENSVILLE	MO	65066
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Thomas	L	Larsen	NULL	431 Shewville Rd	Ledyard	CT	6339
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Mark	L	Daley	NULL	120 Marshall St	FRANKLIN	PA	16323
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Rodney	G	Huskey	NULL	9270 Madras Ct	Highlands Ranch	CO	80130
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Dean	E	jackson	NULL	705 7th ave	Coon Rapids	IA	50058
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Charles		Hammond	NULL	PO Box 6	Lexington	AL	35648
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Roger	W	Rutz	NULL	32871 640 St	Lake City	MN	55041
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Johnny		buckner	NULL	2364 North Fork Right Fork Road	BLACK MOUNTAIN	VA	28711
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Murray		Peterson	NULL	13112 West 125th Place	OVERLAND PARK	KS	66213
+2020	Antelope	Non-Resident-Statewide Antelope Archery- Antelope	Ken		Fitzsimmons	NULL	10052 60th	Alto	MI	49302
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Jack	T	Skavdahl	NULL	380 White Rock Rd	MARSLAND	NE	69354
+2020	Antelope	Resident Landowner Archery-LO- Antelope	mason	r	siems	NULL	53312 843r	TILDEN	NE	68781
+2020	Antelope	Resident Landowner Archery-LO- Antelope	augusta	L	rhoades	NULL	512 W 21st Street	Kearney	NE	68845
+2020	Antelope	Resident Landowner Archery-LO- Antelope	BRANDON	M	STENGER	NULL	11013 E State Farm Rd	North Platte	NE	69101
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Ty	J	Martin	NULL	76425 Rd 346	ELSIE	NE	69134
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Andrew	A	Preston	NULL	170360 Co. Rd. 2	Lyman	NE	69352
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Andrew	T	Glinn	NULL	201 west Q st.	OGALLALA	NE	69153
+2020	Antelope	Resident Landowner Archery-LO- Antelope	PETER	A	PELSTER	NULL	80990 Rd 420	ANSELMO	NE	68813
+2020	Antelope	Resident Landowner Archery-LO- Antelope	AMBER	D	DUBS	NULL	62439 Dubs Lane	Ashby	NE	69333
+2020	Antelope	Resident Landowner Archery-LO- Antelope	ryan	d	stuhlmiller	NULL	2010 CR 60	ALLIANCE	NE	69301
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Andrew	C	thorsen	NULL	1447 u.s.highway 20	Gordon	NE	69343
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Jeffrey	A	Ebberson	NULL	56546 870 Rd	Belden	NE	68717
+2020	Antelope	Resident Landowner Archery-LO- Antelope	michael		wells	NULL	2967 pacific street	OMAHA	NE	68105
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Michael	J	French	NULL	36120 Ponderosa Dr.	Mullen	NE	69152
+2020	Antelope	Resident Landowner Archery-LO- Antelope	TIMOTHY	J	Manning	NULL	1761 River Rd	MARSLAND	NE	69354
+2020	Antelope	Resident Landowner Archery-LO- Antelope	JEFF	A	STUNKEL	NULL	PO BOX 293	ANSLEY	NE	68814
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Daniel		rockwell	NULL	9541 Road 118	Angora	NE	69331
+2020	Antelope	Resident Landowner Archery-LO- Antelope	J	W	simonson	NULL	83450 hawley flats ave	DUNNING	NE	68833
+2020	Antelope	Resident Landowner Archery-LO- Antelope	TIMOTHY	N	WEBER	NULL	PO Box 6	PURDUM	NE	69157
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Priscilla		Rockwell	NULL	9541 Road 118	Angora	NE	69331
+2020	Antelope	Resident Landowner Archery-LO- Antelope	ADAM	D	CROSS	NULL	201003 CARTER CANYON RD	Lyman	NE	69352
+2020	Antelope	Resident Landowner Archery-LO- Antelope	JANET	L	RAYHILL	NULL	61 STOCKADE RD	CHADRON	NE	69337
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Ruth		Rockwell	NULL	9541 Road 118 	ANGORA	NE	69331
+2020	Antelope	Resident Landowner Archery-LO- Antelope	Grover		Thompson	NULL	12888 Rd 129	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ty	J	Conroy	NULL	43651 US Hwy 20	AINSWORTH	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Hunter	S	cooper	NULL	120 south oak lot 10	Sutherland	NE	69165
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cooper	N	Dixon	NULL	29895 265th Rd	Pleasanton	NE	68866
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	hunter	j	eckert	NULL	29325 garvin rd	Valley	NE	68064
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL	W	GASKILL	NULL	10766 COUNTY  RD 32	BLAIR	NE	68008
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	brule		kearney	NULL	2806 17th Ave	CENTRAL CITY	NE	68826
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jonathon	L	krapp	NULL	17470 South 168	Springfield	NE	68059
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brody	R	Meis	NULL	85275 571 ave	Winside	NE	68790
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Isaac	H	Melton	NULL	626 W 7TH STREET	York	NE	68467
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	COLIN	J	MURRAY	NULL	2507 W 34 St Pl	kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Colby	J	Perkins	NULL	347 Lakehurst Dr	WATERLOO	NE	68069
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Timothy	A	Wolfe	NULL	30759 So.DeTour RD.	Wellfleet	NE	69170
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chasity	S	Zimmerer	NULL	802 So 8th St	Humphrey	NE	68642
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joel		Anderson	NULL	7700 lake st 	LINCOLN	NE	68506
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ridge	T	Anderson	NULL	P.O. BOX 64	Dunning	NE	68833
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Drayden	J	Bellamy	NULL	74982 rd 420	eustis	NE	69028
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Arik	J	doty	NULL	11557 hwy 30	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Treyton	H	Hippen	NULL	71917 608 Ave	VIRGINIA	NE	68458
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Zachary	D	Hurlbert	NULL	1438 Arthur	Holdrege	NE	68949
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Austin	R	Knapp	NULL	47847 806th Rd.	Ord	NE	68862
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	HUNTER	W	LEMLEY	NULL	523 2nd Street	MORRILL	NE	69358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	chad	m	McPeak	NULL	p.o. box 424	VALENTINE	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Trey	M	Meis	NULL	85275 571 ave	Winside	NE	68790
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RYAN	T	NEMEC	NULL	2329 DAVEY RD	SEWARD	NE	68434
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Hunter	R	Paitz	NULL	26535 Hawk Road	Pleasanton	NE	68866
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Benjamin	D	Reeder	NULL	4219 S 175 Ave	Omaha	NE	68135
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	coltin	d	rezabek	NULL	984 State Hwy 74	Western	NE	68464
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	P	Schroeder	NULL	110667 County RD J	MITCHELL	NE	69357
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Caleb	E	Smith	NULL	44306 Rd 786	Broken Bow	NE	68822
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DEVIN	J	TUNINK	NULL	15521 margo st	OMAHA	NE	68138
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Peyton	M	Vieyra	NULL	601 Gilman Ave	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	AUSTIN	A	ABBOTT	NULL	504 Bentley	MELBETA	NE	69355
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Logan	G	Belsky	NULL	30398 County Road 28	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DILLON	J	CAREY	NULL	3447 S 126th Ave	Omaha	NE	68144
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Trenton	R	Christiancy	NULL	861  33  Road	Franklin	NE	68939
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	L	Crumly	NULL	"P O Box 182, 110 West Gray St"	Page	NE	68766
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WESTIN	P	DIXON	NULL	31225 280TH RD	Pleasanton	NE	68866
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BEAU	J	EDWARDS	NULL	1483 County Road 65	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jesse	j	falkena	NULL	975 east brown road	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas		Gann	Jr	1425 E P ST	TORRINGTON	WY	82240
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jaden	W	garner	NULL	2620 S Engleman	Alda	NE	68810
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	L	Hefner	NULL	111 n high st	WILBER	NE	68465
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Holden	T	Hupfer	NULL	714 W. 3rd	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Beau	P	Jersild	NULL	503 Deadhorse Rd.	Chadron	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Triston	B	kinnison	NULL	128 meadow ln	GRETNA	NE	68028
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Trevor	A	Klabenes	NULL	85982 488th Avenue	CHAMBERS	NE	68725
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Seth	P	Loomis-Goltl	NULL	PO 1127	Bridgeport	NE	69336
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	shevie	L	mccuiston	NULL	163 hill crest dr	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Sigfrid	A	Muller	III	1510 Vine Street	LINCOLN	NE	68508
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GAVIN	J	OLIVER	NULL	209 S East St. 	WILBER	NE	68465
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Alex		Paus	NULL	3157 rd Y	DEWEESE	NE	68934
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Colton	J	Peckham	I	1001 Prairie Pond Ln.	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Hunter	L	persing	NULL	624 S Shimerda	Wilber	NE	68465
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ryan	M	rash	NULL	"1261 Hammond, Apt#4"	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Matthew		Reeves	NULL	1168 L Rd	Central City	NE	68826
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jack	C	Reiman	NULL	87183 West 10 th	Oneill	NE	68763
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Spencer		Rolls	NULL	723 Fulson Lane	LINCOLN	NE	68522
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	chase	m	ryan	NULL	800 N columbia Ave PO box 798	SEWARD	NE	68434
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	AUSTIN	R	SAYERPROBASCO	NULL	43533 RD 746	SMITHFIELD	NE	68976
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEVIN		SCHROER	NULL	2899 ROAD Q	Lawrence	NE	68957
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cajun	D	Singleton	NULL	13615 E. Plum Rd.	Wymore	NE	68466
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brandt	E	Spath	NULL	1660 E 69th street	Kearney	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tyler	J	Swisher	NULL	83648 Purdum Ave	Halsey	NE	69142
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ethan	b	woehrle	NULL	75193 Dr 428	Elwood	NE	68937
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Austin	F	Creamer	NULL	56392 HWY 84	Hartington	NE	68739
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ADAM	C	GADSDEN	NULL	8103 SOUTH 167TH STREET	OMAHA	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cole	A	Garner	NULL	PO Box 24	Tryon	NE	69167
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Regan	A	Gittlein	NULL	74873 343 ave	ELSie	NE	69135
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nathan	G	Greckel	NULL	50313 Panorama Dr	Scottsbluff	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tanner	S	Keiser	NULL	88657 Highway 81	FORDYCE	NE	68736
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	cavin	j	kramer	NULL	75480 RD 338	Madrid	NE	69150
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kolton	L	Lehmkuhl	NULL	936 19th Road	Pender	NE	68047
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SYDNEY	A	NEWQUIST	NULL	82372 Offill St	Ericson	NE	68637
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	tanner	a	perkins	NULL	3621 e Union road	Union	NE	68455
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dalton	H	Peters	NULL	7400 Jacobs Creek Dr. Apt. 313	LINCOLN	NE	68512
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	D	Pflasterer	NULL	954 Road 6	Schuyler	NE	68661
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Micah	J	Reinke	NULL	1824 Rd 5000	Davenport	NE	68335
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dylan	M	Sackschewsky	NULL	6310 Holdrege St	LINCOLN	NE	68505
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Martin	T	Schildt	NULL	1125 168th Rd	Pleasant Dale	NE	68423
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Preston	L	Schnitzler	NULL	6355 N Winchester Ave.	Kenesaw	NE	68956
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kelby	J	Schommer	NULL	202 W South St. Box 223	Hartington	NE	68739
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KADEN	M	SHADA	NULL	717 Stagecoach Rd.	GRAND ISLAND	NE	68801
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Garrett	W	Skillett	NULL	10776 W Pella Rd	HALLAM	NE	68368
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	EMMETT	E	BECKLER	NULL	290 378 RD	Friend	NE	68359
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	John	T	Bernt	NULL	1117 O St	Bridgeport	NE	69336
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Matthew	W	Bondarchuk	NULL	725 N 75th street 	OMAHA	NE	68114
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Wyatt	K	Boren	NULL	2013 Mckelvie Rd.	Murray	NE	68409
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Hunter		Bosard	NULL	6715 West 25th	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Quade	f	Brees	NULL	141 E Seward  St	Seward	NE	68434
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Connor		Buell	NULL	6160 Charles St.	OMAHA	NE	68132
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ethan		Cradick	NULL	401 E 19th St	YORK	NE	68467
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Carsen	D	Dettman	NULL	1673 V Rd	Central City	NE	68826
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BREYDEN	D	ECKHOUT	NULL	13350 325th Rd.	Amherst	NE	68812
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TRISTAN	J	EGBARTS	NULL	306 WEST WHITTINGHAM	Valley	NE	68064
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	asley		franqueiro	NULL	605 w cedear st	lexington	NE	68850
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JACOB	B	GROSS	NULL	2417 s 14th st	LINCOLN	NE	68502
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	zachary	D	haburchak	NULL	216 W Hancock St	Oneill	NE	68763
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ethan	R	Halstead	NULL	655 East 8th street	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Luke	T	Hestermann	NULL	7931 Upton Grey Lane	Lincoln	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	nathan	a	howe	NULL	50 rolling hills rd	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	HARRISON	K	JAEGER	NULL	10351 N 143 St	WAVERLY	NE	68462
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Parker		Jessen	NULL	522 east 26th street	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jaydon	l	lassen	NULL	118 5th	Saint Paul	NE	68873
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chase	L	Lucas	NULL	515 Platte Ave	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TROY	R	LUSK	NULL	1812 west 40th street	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	C	Malasek	NULL	1614 13th Road	Central City	NE	68826
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Hunter	B	Martin	NULL	87284 Moon Lake Ave.	Ainsworth	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KOLTEN	G	MARX	NULL	5427 250TH LANE	Rushville	NE	69360
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Alex	D	Menninga	NULL	61299 705 Rd	Burchard	NE	68323
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dakota	J	Miller	NULL	210 east walnut 	MAYWOOD	NE	69038
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	grant	e	myers	NULL	3439 N. Cameron Rd.	Cairo	NE	68824
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	austin		phillips	NULL	12308 s 33rd st	BELLEVUE	NE	68123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Alan	S	Rooney	NULL	42552 German Valley Road	BREWSTER	NE	68821
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Lawrence	J	schneider	NULL	1017 N St.	BRIDGEPORT	NE	69336
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	calan	a	sedlacek	NULL	11185 e st hwy 41	Adams	NE	68301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRANT	E	SHOEMAKER	NULL	1107 N 10th	ONEILL	NE	68763
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Karson	J	sok	NULL	3120 N Webb rd	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jonathan	C	Starke	NULL	118 S Howard Avenue	Morrill	NE	69358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cody	C	Stertz	NULL	24311 S 68th 	Firth	NE	68358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jonathan	M	Venzor	NULL	1502 W 40th St	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shane	W	weber	NULL	82379 468th Ave	BURWELL	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Keegan	L	WEGNER	NULL	8385 E St. Hwy 8	WYMORE	NE	68466
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Zachary	B	Welch	NULL	464 N. Maple	AINSWORTH	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chasity	A	wilmes	NULL	1004 Redick ave	CREIGHTON	NE	68729
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nathan	W	Woodrum	NULL	131 Story Road	Harrison	NE	69346
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Austin	J	Wubbels	NULL	14220 Heywood St	WAVERLY	NE	68462
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TRENTON	M	BENTLEY	NULL	28 Michael St	Gering	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Charles	m	bolton	NULL	2801 8th avenue	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	PEYTON	A	BRIGGS	NULL	154 W RD	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	brody	j	cleveland	NULL	P. O. BOX 155	Keystone	NE	69144
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Christopher	A	Dobias	NULL	88078 477 Ave	Atkinson	NE	68713
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	John	S	Gibbens	NULL	45139 Coburg Dr	Comstock	NE	68828
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	L	Johnston	NULL	3845 450th Lane	HAY SPRINGS	NE	69347
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	A	Kling	NULL	"347 rose street, PO Box 321"	Harrison	NE	69346
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRUCE	J	KUMMER	NULL	20941 355 AVE	COLUMBUS	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jared	C	Michl	NULL	13631 Guildford Street	WAVERLY	NE	68462
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan		Milks	NULL	13960 Gibbon Road	Gibbon	NE	68840
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Hank	I	Pflaster	NULL	76920Rd 421	Cozad	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kaleb	J	Puncochar	NULL	812 Craig St	VALENTINE	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	whitney		riha	NULL	445 N 8th st	SEWARD	NE	68434
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	P	rogers	NULL	88876 528 Ave 	NIOBRARA	NE	68760
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	HUNTER	C	SCHAFER	NULL	1741 CR 59 Lot 1	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Bowen	E	schoen	NULL	2936 S. Folsom	Lincoln	NE	68522
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cole	T	Schuster	NULL	19712 S 66h Rd	FILLEY	NE	68357
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Justin	d	schwisow	NULL	502 west 11th 	Dorchester	NE	68343
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Harold	J	Sorenson	NULL	1919 J Ave	Pender	NE	68047
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Samuel	D	Thompson	NULL	PO Box 4	Loomis	NE	68958
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Andrew	T	Wietzki	NULL	605 Michigan Ave	ERICSON	NE	68637
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ALEX	W	BEHRENDT	NULL	27050 IMPERIAL RD	RAVENNA	NE	68869
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Mark	A	Bender	NULL	46518 US Hwy 81	Humphrey	NE	68642
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOSHUA	J	DURFLINGER	NULL	7143 ROAD T	ALEXANDRIA	NE	68303
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tyler	D	Farley	NULL	PO Box 82	Syracuse	NE	68446
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SAGE	M	GIDEON	NULL	46488 HWY 96	BURWELL	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dillon	M	Hall	NULL	210 SW Railway	Blue Hill	NE	68930
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Mitchell	J	harling	NULL	2302 Schoenheit St	Falls City	NE	68355
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kane	R	Kamper	NULL	915 E 4th St	Hastings	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	keith	r	kopcho	NULL	1201 road K	YORK	NE	68467
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jonathan	J	LeCuyer	NULL	201 Elm Street	ABIE	NE	68001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nicholas	J	Martin	NULL	87875 423rd ave.	Ainsworth	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Patrick	J	MCCONNELL	NULL	1511 S 19TH ST	LINCOLN	NE	68502
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Zachary	M	Morland	NULL	306 East 4th	Paxton	NE	69155
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dustin	W	Niedermeyer	NULL	3856 R Road	Talmage	NE	68448
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Drew	A	Perkins	NULL	19504 Cedar Circle	OMAHA	NE	68130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob		Phillips	NULL	8693 OK HWY 48a E	MILBURN	OK	73450
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	colton	t	rathman	NULL	150 west apple	Shelby	NE	68662
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Hayden	C	Robb	NULL	1429 N. Pennsylvania Ave	York	NE	68467
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHN	L	ROTNESS	Jr	130 Carlson Rd.	Hay Springs	NE	69347
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	S	Schmid	NULL	3625 Skyline Drive	Scottsbluff	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tyler	A	Schnitzler	NULL	3320 F Ave	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	braden	t	sikes	NULL	111 Carlyle St	ALMA	NE	68920
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Preston	J	Simon	NULL	"25656 Bennington Road, Po box 184"	Valley	NE	68064
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nicholas	H	Sjuts	NULL	728 Vine St.	Bancroft	NE	68004
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KELBI	L	ABKE	NULL	1201 Allen Drive APT 202	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRISTOPHER	W	BURMA	NULL	1510 VINE ST	LINCOLN	NE	68508
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeremy	P	Callahan	NULL	455 N 26th Rd	Syracuse	NE	68446
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Carter	A	Camp	NULL	1353 300th Street	PRIMROSE	NE	68655
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JUDD	D	GARNER	NULL	102 E 18TH STEET	GRAND ISLAND	NE	68801
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tyler	d	garner	NULL	2620 s Engleman rd	Alda	NE	68810
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dion	D	Gibson	NULL	5991 Logan RD	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chance	G	Giles	NULL	607 Carney Street	Dunning	NE	68833
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	brian	a	Goodes	NULL	2812 March Cir	bellevue	NE	68123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Christopher		Harris	NULL	1201 Allen Drive Box 202	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ETHAN	R	HART	NULL	7000 Valley RD	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEVIN	M	HOSHOR	NULL	3463 310TH AVE	SAINT EDWARD	NE	68660
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	keith	j	jadlowski	NULL	6607 s. 77th circle	OMAHA	NE	68127
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brandon	J	Janssen	NULL	18200 holdrege	Lincoln	NE	68527
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tyler	A	kleinow	NULL	3627 Sugarberry Road	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jake	T	Kohl	NULL	2037 county rd k 	Wahoo	NE	68661
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Zachary	J	Moje	NULL	84288 571 AVE	Pilger	NE	68768
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JASON	S	NICHOLS	NULL	P. O. BOX 4	PLEASANTON	NE	68866
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dylan	c	olson	NULL	84628 577th Ave	WISNER	NE	68791
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chase	L	Powers	I	8230 Renatta Dr. #6107	LINCOLN	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DALTON	J	PROPP	NULL	130360 cr 36	MINATARE	NE	69356
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Andrew	L	Roesener	NULL	429 fletcher ave	LIncoln	NE	68521
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tyler	V	Schoening	NULL	516 S Arthur St	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aaron	J	Skrdlant	NULL	502 W Maple St.	Blue Hill	NE	68930
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Drew	A	Solie	NULL	376 EAST LISTERS RD	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kolby	D	Stortenbecker	NULL	607 W 33rd Street	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	R	Strafelda	NULL	1617 Mayfair Dr	Omaha	NE	68144
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aaron	L	Studebaker	NULL	18707 N 14 st	Raymond	NE	68428
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dallas	C	talbot	NULL	13036 H Blvd	Osceola	NE	68651
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GARY	L	TRANMER	NULL	1810 Greyson Drive	PAPILLION	NE	68133
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DALTON	B	WOLKOW	NULL	4242 600TH RD	HAY SPRINGS	NE	69347
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NYLE	T	BARTLING	NULL	103 South 16th Road	Unadilla	NE	68454
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joel	S	burham	NULL	1500 W 3rd Street	SPRAGUE	NE	68438
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Austin	W	Campbell	NULL	208 N 25th St.	ASHLAND	NE	68003
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHNATHAN	E	CLOUSE	NULL	704 CO RD 700	FRIEND	NE	68359
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Christopher	D	Cook	NULL	85890 538th Ave	PLAINVIEW	NE	68769
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Justin	G	DeMarais	NULL	"2356 11th Av,"	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ethan	C	Eckert	I	206 W Sycamore	Norfolk	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Spencer	K	endorf	NULL	1311 N 5th Street	ONEILL	NE	68763
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cody	A	flowers	NULL	5216 n 84th ave	Omaha	NE	68134
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nate	J	gaukel	NULL	82599 N 13th Ave	Burwell	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Derek	J	haiar	NULL	1321 10 street	Columbus	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Trevor	J	Harling	NULL	2302 Schoenheit St	FALLS CITY	NE	68355
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DERICK	M	HASS	NULL	890 HWY 275	WISNER	NE	68791
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ty	D	Hayes	NULL	1369 N 16TH RD	UNADILLA	NE	68454
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jesse	R	Hays	NULL	71386 h road	Orleans	NE	68966
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Daniel	N	Lucht	NULL	315 Nelson Street.	SAINT PAUL	NE	68873
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Abbie	L	Messman	NULL	200 Chester St	BEATRICE	NE	68310
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	AARON	L	OGDEN	NULL	813 O ST	BRIDGEPORT	NE	69336
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Drew	A	Plugge	NULL	1410 East South St.	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Wesley	J	Plummer	NULL	2015 anna ave	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aaron	G	Rice	NULL	205 E 3rd St.	Neligh	NE	68756
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Eric		Schiltmeyer	NULL	306 Remington Street	Elgin	NE	68636
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brock	A	Schmidt	NULL	1815 SW 36th Street	LINCOLN	NE	68522
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Trevor	J	Schrader	NULL	401 N Pine ST	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Toby	R	Thompson	NULL	205 Palmer st	Loomis	NE	68958
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MICHAEL	G	TREMEL	NULL	1 Driftwood Dr	COLUMBUS	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CODY	R	VANA	NULL	1861 COUNTY RD 2100	WILBER	NE	68465
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	renner		wilson	NULL	978 n 3rd st	TECUMSEH	NE	68450
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nathan	M	WINTER	NULL	7516 sawtooth cir	Omaha	NE	68157
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cody	M	Broomfield	NULL	71100 Rd 382	McCook	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TYLER	F	CAREY	NULL	2953 3rd ave	Columbus	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DILLON	M	CLEARY	NULL	48049 JACKSON RD	Atkinson	NE	68713
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Christian	M	Epperson	NULL	2115 S 145th CIR	OMAHA	NE	68144
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Allan	A	Feek	NULL	64692 703 Road	Falls City	NE	68355
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ethan	M	Fielder	I	18773 SW 45 Rd	Beatrice	NE	68310
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael		Hoffmann	NULL	1302 N 44th St	LINCOLN	NE	68503
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JACOB	R	KASSELDER	NULL	82450 495th Ave	Ericson	NE	68637
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CAMERON	J	KOZAL	NULL	605 Conestoga Ave	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nicholas	R	Licking	NULL	509 NE 2nd Street	MULLEN	NE	69152
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chance	L	Mak	NULL	8811 Broken Spoke Dr	Lincoln	NE	68507
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CONNOR	S	MARCOE	NULL	348 N 4TH RD	PALMYRA	NE	68418
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jace	C	McKay	NULL	49123 st hwy 91	Ericson	NE	68637
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nathan	A	Michl	NULL	5043 NW 7th ST	Lincoln	NE	68521
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Andrew	J	Montag	NULL	6623 N 13th St	Lincoln	NE	68521
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Garrett		Neiburg	NULL	2700 SUNRISE DR	BLAIR	NE	68008
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATTHEW	L	OLSUFKA	NULL	1530 Kripal Street	LODGEPOLE	NE	69149
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	R	Ostdiek	NULL	1208 Evergreen Street	MINDEN	NE	68959
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brian	L	Pomplun	NULL	914 6th st	Fullerton	NE	68638
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Louis	R	Poss	NULL	2040 DEADWOOD. TRAIL	Elba	NE	68835
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeremy	L	Rice	NULL	83872 Carr Lane	THEDFORD	NE	69166
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	R	Schumacher	NULL	88423 427th ave	Ainsworth	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	HEATH	D	SCHUTZ	NULL	2661 D RD	Syracuse	NE	68446
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	William	G	Schwalb	NULL	5725 S 190 TER	OMAHA	NE	68135
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Heath		Shannon	NULL	1267 r rd 	UPLAND	NE	68981
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Christopher	E	Shelby	NULL	10765 Turkey Creek Rd	ELM CREEK	NE	68836
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Bo		Shepard	NULL	Box 329	CAMBRIDGE	NE	69022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	cailan		shotkoski	NULL	3213 20th Street	COLUMBUS	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kody	L	snyder	NULL	P.O. Box 63	Homer	NE	68030
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SETH	s	STENDER	NULL	23209 Agee Circle	WATERLOO	NE	68069
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	J	sughroue	NULL	71602 RD 397	Indianola	NE	69034
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RYAN	E	TIMMERMAN	NULL	88196 484 ave	ATKINSON	NE	68713
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHN	R	TRANMER	NULL	11201 Y ST	OMAHA	NE	68137
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ANDREW	J	WURDEMAN	NULL	1120 Wilson Ave	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROBERT	C	APOLIUS	NULL	PO Box 57	Keystone	NE	69144
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DYLAN	J	BARTLING	NULL	103 S 16TH RD	Unadilla	NE	68454
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRIAN	D	BIRD	NULL	416 E 26th st	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cole	D	Bures	NULL	46418 SW 32nd Road	ODELL	NE	68415
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	brian	j	buttry	NULL	17024 greenfield street	OMAHA	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cody		Crawley	NULL	2015 Forrest St.	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	D	Curtis	NULL	11967 Ballpark Way 117	PAPILLION	NE	68046
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	William		Ellsworth	NULL	1117 2nd street	Crawford	NE	69339
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	J	Emerson	NULL	P.O. Box 126	Crawford	NE	69339
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DEREK	L	FERNAU	NULL	PO Box 792	Valentine	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nicholas	D	Garst	NULL	7221 South ST Unit 19	LINCOLN	NE	68506
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATTHEW	K	GOFF	NULL	70527 653 Blvd	FALLS CITY	NE	68355
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CODY	W	GURNEY	NULL	46327 hwy 96	Burwell	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	benjamin	p	harris	NULL	1907 N 75 AVE.	Omaha	NE	68114
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Johnathan	A	Haun	NULL	333 Dakota Road	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LORY		JOHNSON	NULL	1591 RD 70 E	PAXTON	NE	69155
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ZACHARY	A	KELLEY	NULL	28310 W Park Hwy	ASHLAND	NE	68003
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nathan	R	key	NULL	891 Jannie dr	PALMYRA	NE	68418
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cole	H	Kirchhefer	NULL	1318 Nichols Ave	Henry	NE	69358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jake	A	Koenig	NULL	672 County Road M	YUTAN	NE	68073
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	johnathan	s	lauenroth	NULL	8649 west martell rd.	CRETE	NE	68333
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TRAVIS	C	MILLER	NULL	6911 S 89th	LINCOLN	NE	68526
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Adam	J	Mingus	NULL	1023 Padua Ave	Ravenna	NE	68869
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DERREK	G	SCHACHT	NULL	90159 Hatchery Rd.	VALENTINE	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	COLTON	J	THOMAS	NULL	13326 Adams St	OMAHA	NE	68137
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TYLER	B	VREUGDENHIL	NULL	14 Elm Dr.	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	S	Wallingford	NULL	2326 County Rd H Blvd	HOOPER	NE	68031
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	todd	a	walz	NULL	23287 N Classen Rd.	STAPLETON	NE	69163
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Grant	N	Williamson	NULL	809 Buckboard Blvd	PAPILLION	NE	68046
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	rylan	a	wilson	NULL	562 5TH ST	SYRACUSE	NE	68446
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cameron	L	Worden	NULL	1237 F Street	BURWELL	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	E	WURDEMAN	NULL	1430 Boise Ave	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jay	I	Bartlett	NULL	9129 south 54th rd	CORTLAND	NE	68331
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nathan	J	Borowski	NULL	4309 Claussen Road	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOSEPH	D	BRADLEY	NULL	335 n Tyler st	ELM CREEK	NE	68836
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	brady	T	BUETTNER	NULL	1733 S. Arthur	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CODY	L	BURSON	NULL	231 north 27th street 	ORD 	NE	68862
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	E	Busboom	NULL	8303 S 54th Rd	CORTLAND	NE	68331
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	zachary	r	cassity	NULL	44734 852nd Rd	BASSETT	NE	68714
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kaleb	T	Christensen	NULL	16008 Grege Street	BENNINGTON	NE	68007
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tyler	R	Eckman	NULL	50652 CR 25	Scottsbluff	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRANDON	M	FAIMON	NULL	24608 South Hershey Dickens Rd	Dickens	NE	69132
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TYSON		GEISLER	NULL	2721 Anna Ave	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NICHOLAS	M	GUSTAFSON	NULL	201 STOCKTON AVE	WACO	NE	68460
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Johnathan	L	Haag	NULL	209 N Euclid Ave	SUTTON	NE	68979
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Daniel	c	Hammond	NULL	2205 12 AVE	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	R	Hanson	NULL	3114 W Philip Ave	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRANDON	J	HAVLAT	NULL	453 175TH ST	PLEASANT DALE	NE	68423
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joel	T	Henson	NULL	1412 Hagge Ave.	GRAND ISLAND	NE	68801
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATHEW	A	HORNE	NULL	2115 Topeka Circle 	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	anthony	m	jansen	NULL	4005 Ave R Apt B6	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jamison	A	Jensen	I	1411 SW 22nd Street	LINCOLN	NE	68522
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tanner	D	Kaufman	NULL	4125 STATE HWY 27	GORDON	NE	69343
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KYLE	F	KLAMMER	NULL	303 E 13th St	LEXINGTON	NE	68850
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kevin		loeschke	NULL	213 elm creek st	KIMBALL	NE	69145
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Logan	a	Meyers	NULL	2105 glenwood ave	Papillion	NE	68046
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DEREK	J	MILLER	NULL	404 W 15th St	GRAND ISLAND	NE	68801
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRANDON	A	MORRISON	NULL	3411 Eisenhower Court	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jordan	T	Namuth	NULL	1575 Hwy 92 West	LEWELLEN	NE	69147
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jason	A	Ogden	NULL	512 L Street	BRIDGEPORT	NE	69336
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CLAYTON	R	OSBURN	NULL	90165 Hatchery RD	VALENTINE	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob		Reiman	NULL	49134 W BENTON ST	Oneill	NE	68763
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Robby	A	Rhembrandt	NULL	140024 County Road 24	Gering 	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brett	M	Rischling	NULL	19765 S 174th Plz	SPRINGFIELD	NE	68059
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brita		Sculley	NULL	802 Tomahawk Rd	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	AUSTIN	J	STAMP	NULL	3815 Ave H #11	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Travis	G	Stithem	NULL	1409 Ave. E	COZAD	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ashley		Wallingford	NULL	2326 County Rd H Blvd	HOOPER	NE	68031
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shane	M	Weaver	NULL	1911 William Avenue	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Garrett		Woockman	NULL	4917 S 124th St.	OMAHA	NE	68137
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFFREY	W	ALLBERY	NULL	211 4 st N	DANNEBROG	NE	68831
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nolan	B	Balfour	NULL	1510 S 42nd St	Nehawka	NE	68413
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Matt	S	BLOCH	NULL	12005 250th street	Greenwood	NE	68366
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	COREY	J	BOYLE	NULL	85671 557th ave	PIERCE	NE	68767
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TRAVIS	A	BROCKMANN	NULL	211 Court Street	CARROLL	NE	68723
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Benjamin	J	Cousino	NULL	"3024 Harney St, Ste 605"	OMAHA	NE	68131
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kenneth	r	cunningham	NULL	1712 e 42nd st pl	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Seth		Denton	NULL	14434 N 72nd St.	OMAHA	NE	68122
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan		Dethlefsen	NULL	101 W 9TH STREET	HICKMAN	NE	68372
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JONATHAN	J	HOTTELL	I	80975 Stonegate rd	MINATARE	NE	69356
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Robert	S	Jimenez	NULL	815 18TH STREET	GERING	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Calab		Keller	NULL	1650 Rd 53	HARRISBURG	NE	69345
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jess	M	Kment	NULL	1169 Nickerson Rd.	HOOPER	NE	68031
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHASE	D	KRATOCHVIL	NULL	1040 Cady Drive	ARLINGTON	NE	68002
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Alex	A	Larkin	NULL	506 Kimberly Way	SAINT LIBORY	NE	68872
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jordan		leasure	NULL	3959 Norseman Ave 	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	eric	J	lehmkuhl	NULL	4410 glenwood rd	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	alex	j	micek	NULL	3439 S. 112th St	Omaha	NE	68144
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jared	M	Neumeister	NULL	668 5th Street	UNADILLA	NE	68454
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LUKAS	R	NORQUEST	NULL	315 E. Johnson St	CLAY CENTER	NE	68933
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	shay	b	norris	NULL	6925 x street	LINCOLN	NE	68505
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	R	Pittman	NULL	545 18TH ST	GERING	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WILLIAM	D	REIN	III	1855 Aspen st 	GERING	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	EMILEE	L	SEIER	NULL	2854 State Highway 32	Petersburg 	NE	68652
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jason	L	Skrdlant	NULL	310 S Ash St	BLUE HILL	NE	68930
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ERIC	J	SNITILY	NULL	3 Reed Street	CRAWFORD	NE	69339
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NICHOLAS	N	STREBLOW	NULL	332 N Mears ST	CHADRON	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Devin	R	Sukup	NULL	959 S 48th St	Omaha	NE	68106
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	craig		summitt	NULL	13308 south 38th st.	BELLEVUE	NE	68123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Lucas	R	White	NULL	445 N 8 th St	Seward	NE	68434
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Andrew	J	Wotipka	NULL	2760 COUNTY RD A	VALPARAISO	NE	68065
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRYCE	A	ANDERSON	NULL	1202 south 7th ave	broken bow	NE	68822
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Justin	L	Barry	NULL	144 E. 15th St	WAHOO	NE	68066
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	daniel	c	breen	NULL	719 w 13th st	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Julie	L	Bules	NULL	1825 10th Ave	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TYSON	A	BURESH	NULL	2190 Co Rd IJ	Ulysses	NE	68669
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NATHAN	L	BURR	NULL	4545 I Road	DUNBAR	NE	68346
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	M	Chamberlain	NULL	363 LINDEN STREET	Chadron	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JORDAN	D	CLANCY	NULL	1801 W 7TH	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JACOB	J	CLOUSE	NULL	131 Maple Street	FRIEND	NE	68359
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Seth		Colburn	NULL	547 N Howe St.	VALENTINE	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JACOB	D	DOWNS	NULL	410 N. Maple St	CHADRON	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ADAM	M	EGBARTS	NULL	19219 310th Street	COLUMBUS	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NATHAN	A	FRANKLIN	NULL	160870 COUNTY ROAD D	MITCHELL	NE	69357
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeremy	J	Gorecki	NULL	1303 Jay St	SAINT PAUL	NE	68873
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	E	Hajek	NULL	5201 Fremont St	LINCOLN	NE	68504
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	T	Harms	NULL	12320 State Highway 4	Wilcox	NE	68982
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Koby	L	Huhman	NULL	83973 Atkins Rd	HALSEY	NE	69142
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dustin		Jasper	NULL	7020 Cass Ave	DENTON	NE	68339
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOSHUA	J	KANKOVSKY	NULL	16816 Pierce	OMAHA	NE	68130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRISTOPHER	L	KELLER	NULL	427 1st Ave	BAYARD	NE	69334
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Micah	b	Koch	NULL	5899 N SAND RD	Hershey	NE	69143
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Adam		Leitschuh	NULL	1624 Osage Ranch Cir	PLATTSMOUTH	NE	68048
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TYLER	C	LIND	NULL	8991 rd 98	Bridgeport	NE	69336
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cody	A	Mahoney	NULL	185 S. 3rd St. PO Box 43	Springfield	NE	68059
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GARRETT	D	MCARDLE	NULL	1824 Little Sioux Ln	COZAD	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	PAUL	D	MINGUS	NULL	324 Verona Ave	Ravenna	NE	68869
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	T	Miriovsky	NULL	1780 31 Road	BRAINARD	NE	68626
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TYLER	L	MOLESWORTH	NULL	46379 828th RD	BURWELL	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	L	Morado	NULL	8410 Fremont St Apt 1	LINCOLN	NE	68507
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ERIK	S	MRKVICKA	NULL	1505 Grant STREET 	Saint Paul	NE	68873
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JARED	L	MULDER	NULL	1511 8th Ave	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	L	newcomb	NULL	305 Locust St	SPRINGFIELD	NE	68059
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cody	D	Phillips	NULL	6380 N. Marian Rd	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Justin	J	Prince	NULL	662 S Blaine Ave	Minden	NE	68959
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael		Rafferty	NULL	208 east 5th street	VALENTINE	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RYAN	R	RECTOR	NULL	1035 edearl lane fremont ne	Fremont	NE	68025
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JAKE		ROGERS	NULL	2901 ave f	Scottsbluff	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	L	Runyan	NULL	87332 481st Ave	Atkinson	NE	68713
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Timothy	J	Schlappich	NULL	2722 forbes dr	BELLEVUE	NE	68123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Adam	J	Stohs	NULL	11097 West Lilac Road	BEATRICE	NE	68310
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Trevor	j	Stokes	NULL	5524 Hunts Dr	LINCOLN	NE	68512
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DUSTIN	N	STONE	NULL	3904 Nehawka Rd.	Nehawka	NE	68413
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael		Storrs	NULL	209 Park Ave.	MC COOK	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Eric	M	Wilke	NULL	73326 646A Ave	PERU	NE	68421
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Lane	G	Zimbelman	NULL	1721 AVE B	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KIRK	C	ZIMMER	NULL	556 5th avenue	DUNCAN	NE	68634
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jordan	M	Abegglen	NULL	923 Skyline Dr	ELKHORN	NE	68022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kyle	P	Arnold	NULL	1372 S148th Rd.	Adams	NE	68301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jared	D	Beal	NULL	708 W 2ND ST	Big Springs	NE	69122
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Blake	W	Bierman	NULL	80569 Dunning Rd	Arnold	NE	69120
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	AARON	w	BRUNS	NULL	1818 SW 36th St	LINCOLN	NE	68522
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jason	P	Crumley	NULL	4362 B Road	Bellwood	NE	68624
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MIKE	J	DROZD	NULL	1876 140th road	COLUMBUS	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TIMOTHY	J	DRUBA	NULL	1418 West Silverado Drive	LINCOLN	NE	68521
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kevin	W	Dubas	Jr	418 Division Street	Fullerton	NE	68638
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Caleb		Dunker	NULL	1322 Veges	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GARY	W	DYKMAN	NULL	2636 COUNTY ROAD 147	Lodgepole	NE	69149
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jaime	c	Dykman	NULL	1436 Peterson Blvd	LODGEPOLE	NE	69149
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aleah	L	German	NULL	10400 Yankee Hill Rd	LINCOLN	NE	68526
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	COLE	M	GURNEY	NULL	45845 Frontier Loop RD	BURWELL	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Timothy	T	Harm	NULL	20020 Monroe Street	OMAHA	NE	68135
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brandon	L	Harrington	NULL	4363 Sherwood Rd	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RYAN	S	HAWTHORNE	NULL	4102 bel air drive 	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cassandra	K	Jackson	NULL	406 E 2nd Street	RUSHVILLE	NE	69360
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	joe	d	judd	NULL	1039 13th ave	MITCHELL	NE	69357
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRIAN	S	KENNEDY	NULL	165 N. 1st St.	SPRINGFIELD	NE	68059
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Levi	N	Kent	NULL	402 w cass	Blue hill	NE	68930
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	anthony	j	kuhns	NULL	512 Rd 40N	BUSHNELL	NE	69128
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NICHOLAS	R	LARSON	NULL	3014 AVENUE H	SCOTTSBLUFF	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shawn	L	Lehmkuhler	NULL	79335 Ryno Rd	Broken Bow	NE	68822
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	S	Livingston	NULL	12710 RD 84	Broadwater	NE	69125
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Benjamin	D	McCall	NULL	8011 W. Walker Rd.	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Garrett	M	Ourada	NULL	13255 Martell Rd	Bennet	NE	68317
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHARLIE	A	PETERS	NULL	"1509 17TH Avenue, Apt 24"	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tucker	P	Peterson	NULL	P O Box 25	Lodgepole	NE	69149
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	A	PHILLIPS	NULL	3307 Stewart Lane	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dustin	C	Riggins	NULL	45930 Rd 796	Arcadia	NE	68815
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	scott		robison	NULL	1011 west centennial road 	PAPILLION	NE	68046
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brenton	A	Roby	NULL	1540 W. Garfield Cir	LINCOLN	NE	68522
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	d	schledewitz	NULL	"605 Laramie Ave, PO Box 34"	HEMINGFORD	NE	69348
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	PHILIP	R	SCHROER	NULL	550 E 2nd St 	LAWRENCE	NE	68957
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ELLIOT	M	SJUTS	NULL	34407 385th St.	Humphrey	NE	68642
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRYCE	T	SPENCER	NULL	83093 Sharptail Drive	MULLEN	NE	69152
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JACOB	R	THOMAS	NULL	2840 WEST MARTELL RD	MARTELL	NE	68404
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joel	m	Thorsen	NULL	1453 u.s. highway 20	Gordon	NE	69343
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Raymond	L	timmerman	NULL	88196 484TH RD	ATKINSON	NE	68713
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TYLER	J	VETTEL	NULL	835 Sagewood Ave	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Benjaman		Williamson	NULL	2860 630th rd	Gordon	NE	69343
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KENNETH	C	ALBERS	III	4340 RD S	Linwood	NE	68661
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jason	J	Butterfield	NULL	3406 H Ave	Kearney	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Alex	H	Carritt	NULL	1858 County Road 12	MEAD	NE	68041
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JUSTIN	M	CRUISE	NULL	PO BOX 66	SAINT EDWARD	NE	68660
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DUSTIN	A	DEVRIES	NULL	501 East 31st St	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	E	Dostal	NULL	221 N. 6th St. 	Howells	NE	68641
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeffery	A	Eynetich	NULL	208 Cherokee Avenue S.	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	N	Frerichs	NULL	3678 Rd 131	Gurley	NE	69141
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRISTOPHER	E	GIBSON	NULL	632 E 7th	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRENT	W	GIPFERT	NULL	1666 Capt. Walter Reed Ave	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LANNCE	L	GROTHE	NULL	84769 559th Avenue	Hoskins	NE	68740
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MIKAEL	L	HOWARD	NULL	336 lake st	CHADRON	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jordan		Hromek	NULL	910 6th St.	MILFORD	NE	68405
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dillon	J	Jasper	NULL	7575 West Olive Creek Rd	HALLAM	NE	68368
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ross	E	Lawrence	NULL	592 County Road 15	WAHOO	NE	68066
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Justin	J	Lemmer	NULL	610 S Sycamore St	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TRENTON	T	MEEKS	NULL	210 BUCKTAIL RD	SUTHERLAND	NE	69165
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	michael		meisner	NULL	40616 walking pines RD	HALSEY	NE	69142
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DRUE	A	MEYER	NULL	911 N CHESTNUT ST	Red Cloud	NE	68970
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Corey	l	Morris	NULL	705 Cherokee circle	Broken bow	NE	68822
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DAVID	K	MORRIS	NULL	204 W. Mecca P.O. Box 234	CAIRO	NE	68824
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kirk	A	Nitzel	NULL	22680 SW 100TH	HALLAM	NE	68368
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	J	Opitz	NULL	112 north Gibson P.O. Box 421	HAY SPRINGS	NE	69347
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JACOB	J	PACAS	NULL	1301 HICKORY ST	STANTON	NE	68779
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CALVIN	L	PARKINS	Jr	410 Pine STREET	Crawford	NE	69339
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CODY	M	PERKINS	NULL	347 Lakehurst Drive	WATERLOO	NE	68069
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Matthew	P	Schneider	NULL	418 S OAK ST	WEST POINT	NE	68788
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Trevor	A	Sewald	NULL	902 East E 	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	lance	m	sexson	NULL	602 HWY 61 SOUTH	OGALLALA	NE	69153
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	David	D	Sheldon	NULL	2601 2nd ave	SCOTTSBLUff	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Scott	a	Shepler	NULL	20137 SW 131 Rd	De Witt	NE	68341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Matthew	K	Skaggs	NULL	46675 797th rd	ARCADIA	NE	68815
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CODY	J	SMITH	NULL	1025 North Lincoln Avenue	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Casey	J	Snyder	NULL	620 S 12	Wymore	NE	68466
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	trent	r	sprague	NULL	3421 West A Street	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATTHEW	D	TICHY	NULL	819 GRAND AVE 	Humboldt	NE	68376
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	elijah	s	vincent	NULL	8370 s sagebrush lane	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NICHOLAS	A	WEAVER	NULL	1415 17th Avenue	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRENT	A	WORTMAN	NULL	1110 East 11th st	Ogallala	NE	69153
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Daniel	P	Boland	NULL	2419 Ponca Pt	Plattsmouth	NE	68048
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Troy	M	Bottolfsen	NULL	424 South Summit ST	Hartington	NE	68739
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRANDON	K	BRILL	NULL	76602 Rd 425	Cozad	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Josh	A	Call	NULL	38505 Windmill	THEDFORD	NE	69166
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jared	A	Casteel	NULL	20611 Boyd St.	Elkhorn	NE	68022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JAMES	R	DAVENPORT	NULL	2145 East 1st Street	FREMONT	NE	68025
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JESSE	J	DAVENPORT	NULL	2549 e 2nd st	Fremont	NE	68025
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Justin	M	Dobernecker	NULL	7528 County Road 39	FORT CALHOUN	NE	68023
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Eric	M	Ellingson	NULL	426 Country Rd 2250	Crete	NE	68333
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeff	A	Gilsdorf	NULL	18763 Ohern Street	OMAHA	NE	68135
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kent	C	Hochstein	NULL	102 S Olive Ave	HARTINGTON	NE	68739
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brent		Iwanski	NULL	503 Hwy 2	HALSEY	NE	69142
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brandon	J	Kelly	NULL	304 Broadway St.  P.O. Box 65	Newcastle	NE	68757
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jebbarae	W	Linner	NULL	1806 W 43rd St. Pl.	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Torey	L	McMullen	NULL	42529 Pioneer Rd	ANSELMO	NE	68813
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RYAN	J	MEYER	NULL	6921 Bernese Blvd	Lincoln	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRANDON	M	MIIGERL	NULL	707 Sicily ave 	RAVENNA	NE	68869
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dustin	d	Morris	NULL	3600 Meadowlark lane	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Andrew	B	Mroz	NULL	4331 Abbott Rd.	Lincoln	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CLINT	N	NORMAN	NULL	2520 Queen Drive	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Anthony	R	Peters	NULL	2208 road 3100	DEWEESE	NE	68934
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	COLLIN	L	PRINCE	NULL	56505 858th RD	Carroll	NE	68723
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL	R	SCHROEDER	NULL	BOX 55	MILLER	NE	68858
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	josh	m	schroeder	NULL	1207 east 17th St	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Stacy	J	Schumacher	NULL	878 Rd 101	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	M	Schwedhelm	NULL	56882 848TH RD	Winside	NE	68790
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joseph	F	sculley	NULL	802 Tomahawk	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DUSTIN	L	SJUTS	NULL	34407 385 ST	HUMPHREY	NE	68642
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kip	J	Slaymaker	NULL	308 Riverview Drive	ATKINSON	NE	68713
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JUSTIN	D	SOLBERG	NULL	125 Schmitt Dr	Henry	NE	69358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dustin	R	Taake	NULL	84457 539 Ave	MEADOW GROVE	NE	68752
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Charles	V	Tritz	NULL	7818 Howell St.	Omaha	NE	68122
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jorge	J	Arreguin	Jr	2306 vernon ave	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JASON	R	ASCHENBRENNER	NULL	80038 County Road L	MORRILL	NE	69358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SCOTT	A	BAKER	NULL	1315 n 102nd st	LINCOLN	NE	68527
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	trevor	w	black	NULL	10760 RD 22	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Zane		Burgess	NULL	6038 H Rd	NEBRASKA CITY	NE	68410
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brandon	M	burke	NULL	1322 Dakota Ave.	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ERIC	J	BURR	NULL	P.O. Box 125	TALMAGE	NE	68448
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFFREY	J	CHRIST	NULL	3010 F Ave	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	OSCAR		CORONA	NULL	2624 Idaho Ave	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	kurt	a	doyle	NULL	304 W Calhoun Dr.	Fort Calhoun	NE	68023
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jon	W	Dunker	NULL	P.o Box 222	HILDRETH	NE	68947
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Gibbie	M	Duval	NULL	15424 Birch Ave	Omaha	NE	68138
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Judd	M	Giese	NULL	16422 Portal St	Omaha	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	benjamin	c	gist	NULL	224 E. Fifth st.	Valparaiso	NE	68065
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WADE	D	GODSEY	NULL	po box 344 	Springfield	NE	68059
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CLINTON	L	GUSTAFSON	NULL	210 N WALNUT ST	POLK	NE	68654
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	michael	r	hawkins	NULL	205 Chapin St.	Winside	NE	68790
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	David	C	Hellman	NULL	4480 RD 89	Potter	NE	69156
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TYLER	R	HERNANDEZ	NULL	6931 Lacroix Dr.	Lincoln	NE	68526
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	David	J	Hospodka	NULL	"18402 W DODGE HILLS PLAZA, 311"	ELKHORN	NE	68022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TODD	A	JEFFRES	NULL	46973 Highway 91	BURWELL	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL	L	KASTER	NULL	63473 703 Trl 	DU BOIS	NE	68345
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL	W	LAUGHLIN	NULL	301 South Phillips	Lawrence	NE	68957
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SAMUEL	W	LOHMEIER	NULL	19105 S 5th Drive	BEATRICE	NE	68310
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nathan	O	Maahs	NULL	9050 Wagon Train Rd	Hickman	NE	68372
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Justin	R	mahrt	NULL	19814 Maple Street	Gretna	NE	68028
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Bryan	J	Mikesell	NULL	495 Kurt Drive	GERING	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JAMES	G	MURPHY	NULL	PO BOX 225	SPRINGVIEW	NE	68778
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jonathan	E	Odvody	NULL	1740 Road X	DODGE	NE	68633
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MICHAEL	E	REIN	NULL	po box 88	BAYARD	NE	69334
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	C	Risney	NULL	259 North street	GREENWOOD	NE	68366
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CODY	J	RODGERS	NULL	708 north linden st.	Wahoo	NE	68066
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	James	F	Scott	NULL	2136 south 43rd st	OMAHA	NE	68105
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NICHOLAS	J	STOCKTON	NULL	420 E 31st	Kearney	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Peter	M	Stout	NULL	1009 W. 45th St	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	samuel	J	sutton	NULL	325 East 4th Street	IMPERIAL	NE	69033
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ERIC	M	TRAVIS	NULL	9400 lakota rd	GIBBON	NE	68840
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	matthew	g	welker	NULL	1310 Court St	LINCOLN	NE	68508
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEITH	L	BARG	NULL	1932 196th rd	GARLAND	NE	68360
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	T	Becker	NULL	401 Forest Drive	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joshua	c	Benson	NULL	601 N Hall st	Valentine	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DUSTIN	j	CHAON	NULL	1444  Newton St.	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ZACHARIAH	D	DeLaTorre	NULL	2019 W 39th Street	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Patrick	J	Derickson	NULL	13031 West Birch Rd	WILBER	NE	68465
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jason	l	desotel	NULL	3972 West Spruce Rd	ODELL	NE	68415
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dale	L	dishman	NULL	1420 F St	Utica	NE	68456
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Daniel	A	Edwards	NULL	14542 Quentin St.	Waverly	NE	68462
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Coy	R	Fisher	NULL	2439 Shelby Dr.	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRISTOPHER	R	GARRETT	NULL	7748 S 81st 	Lincoln	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Rick	J	GILMORE	NULL	4696 W Medicine Rd.	Wellfleet	NE	69170
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TIMOTHY	D	GILMORE-METZ	NULL	31 Phelps St	Crawford	NE	69339
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	adam		goff	NULL	76370 road 426	COZAD	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DUSTIN	J	GORDON	NULL	23701 Holdredge Street	Eagle	NE	68347
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRETT	P	KNOETZEL	NULL	620 State St.	BASSETT	NE	68714
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Blake		Lambert	NULL	45095 Kilgore road	GIBBON	NE	68840
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Clint	L	Maaske	NULL	749 County Rd 31	VALPARAISO	NE	68065
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRIS	M	MCCLAREN	NULL	355 Pepper Creek Rd	Hay Springs	NE	69347
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	AARON	c	MENKE	NULL	85489 547th ave	PIERCE	NE	68767
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jared	G	Mueller	NULL	1218 Manor Drive	HOLDREGE	NE	68949
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JORDAN	D	MYERS	NULL	122 E Oak	DANNEBROG	NE	68831
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Wyatt	T	Olson	NULL	6055 Standage Place	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	William	A	Palensky	NULL	310 Oak ST.	DAVID CITY	NE	68632
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Caleb	R	Pharris	NULL	3641 NW Michael St	Lincoln	NE	68524
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	THOMAS	J	PINKELMAN	NULL	208 E 2nd St P.O.Box 107	FORDYCE	NE	68736
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Loren	D	Ruby	NULL	575 N Main Street	VALENTINE	NE	69201
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRIAN	M	SEIER	NULL	2854 State Hwy. 32	PETERSBURG	NE	68652
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CODY	R	STEVENSON	NULL	4421 South 38th Street 	Lincoln	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KC	O	Sundermeier	NULL	215 Webster St	Rockville	NE	68871
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Caleb	G	Sweetser	NULL	1035 rose st apt 1	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ZEBADIAH	D	SWINK	NULL	5740 Hartley St.	LINCOLN	NE	68507
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ZACHARY	R	TESAR	NULL	1411 Birch Street	AURORA	NE	68818
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFFREY	D	THOMPSON	NULL	PO BOX 744	SUTTON	NE	68979
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Craig	J	Topil	NULL	255 West Spruce	Rising City	NE	68658
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jason		VanNostrand	NULL	520 N Jefferson street	Red Cloud	NE	68970
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRISTOPHER	M	VOLK	NULL	1307 JACKSON STREET	SAINT PAUL	NE	68873
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brent	T	Wiese	NULL	18631 Josephine Street	Omaha	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RYAN	W	WOEHL	NULL	4241 O Road	BELLWOOD	NE	68624
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CASEY	S	WRIGHT	NULL	7962 n163rd ave	Bennington	NE	68007
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brandon	S	Yetter	NULL	259 N Main St.	CHADRON	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TRENTON	D	ALBERTS	NULL	83648 Purdum Ave.	Halsey	NE	69142
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Erick	J	Armstrong	NULL	1409 12th Avenue	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEVIN	L	BERGGREN	NULL	514 Westridge Dr	BROKEN BOW	NE	68822
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Anthony	C	Bye	NULL	800 W Main st	SARGENT	NE	68874
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CASEY	B	CLIFTON	NULL	2081 226th St 	Eagle	NE	68347
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ben		Collingham	NULL	507 Rd Q	MC COOL JUNCTION	NE	68401
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	PHILLIP		DALY	NULL	23107 SHILOH DRIVE	GRETNA	NE	68028
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aaron	B	Donner	NULL	P.O. Box 354	Wisner	NE	68791
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Mark	S	Duncan	NULL	407 Peabody Ave	Creighton	NE	68729
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ERIC	N	FUNK	NULL	8301 chestnut	Lincoln	NE	68510
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Branden	D	Gibson	NULL	5991 Logan Rd	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DAVID	M	GLENN	Jr	20238 Cook Oil Rd. 	MITCHELL	NE	69357
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jerome	v	hinrichs	NULL	2003 S. Maple Street	Chadron	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Curtis	N	James	NULL	15132 chalco pt. dr.	Omaha	NE	68138
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	christopher	J	Jensen	NULL	3707 N 77th street	OMAHA	NE	68134
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RYAN	M	JOHANSEN	NULL	1079 Inman road	Saint Paul	NE	68873
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Scott	A	Klassen	NULL	200 Laramie trail	LINCOLN	NE	68521
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Pamela	J	Lutz	NULL	33039 road 716	parks	NE	69041
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JUAN	M	MANUEL VILCHIS	NULL	701 Sherman Dr	BELLEVUE	NE	68005
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	AARON	M	MILLER	NULL	P.O. Box 52	LONG PINE	NE	69217
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Rodney	L	Moore	Jr	17013 Colleen Lane	GRETNA	NE	68028
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	michael	j	moser	NULL	607 Bowen Street	ELGIN	NE	68636
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brandon	M	Mossberg	NULL	1228 E. 8th Street	Kimball	NE	69145
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ALEX	J	MOUSEL	NULL	2531 Circle Court	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JASON	J	PROTHMAN	NULL	85067 560th Ave	Hoskins	NE	68740
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BLAKE	R	ROTHERHAM	NULL	902 Blue Stem Cir	Norfolk	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATTHEW	P	SCHEEF	NULL	8981 HJIGHMARK LANE	LINCOLN	NE	68526
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Matthew	J	Stark	NULL	"302 N Nebraska Street, PO Box 894"	PONCA	NE	68770
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SHAWN	A	STONE	NULL	610 pacific 	loomis	NE	68958
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	P	Thomas	NULL	2134 NW 47th ct	Lincoln	NE	68528
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dustin	B	Wells	NULL	1000 Tara Heights Dr	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATTHEW	J	ANDERSON	NULL	2045 Cheyenne CT	Gering	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jared	k	bellinger	NULL	501 N 19th St	ORD	NE	68862
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Benjamin	J	Biaggi	NULL	"835 Hoffies Drive, Apt 8A"	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jenny	M	Bolling	NULL	85489 547  Ave	PIERCE	NE	68767
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CODY	W	BURROWS	NULL	1621 N Silber Ave	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	elizabeth	k	desotel	NULL	3972 W Spruce Rd	ODELL	NE	68415
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Eric	H	Eshbach	NULL	20305 crystal ave	Omaha	NE	68028
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nathan	M	Gates	NULL	2820 Hogan Ln	Fremont	NE	68025
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LOGAN	A	GRAFFORD	NULL	P.O. Box 11	Paxton	NE	69155
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Daniel		Gurr	NULL	1844 Maple Street	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dustin	L	Heller	NULL	4304 Sheridan Rd	BELLEVUE	NE	68123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	PAUL	e	HERMSEN	NULL	2466 E LAKE DR	Union	NE	68455
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brett	R	langenberg	NULL	"85072 561st AVE, ---"	HOSKINS	NE	68740
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHADWICK	J	LIBSACK	NULL	240405 CR G	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	FRED	P	MATULKA	NULL	5700 CUTHILLS CT	LINCOLN	NE	68526
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shaun	M	McDonald	NULL	7400 Yankee Woods Drive	LINCOLN	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Timothy		Nelson	NULL	709 MADISON	Fort Calhoun	NE	68023
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CASEY	D	RODGERS	NULL	1951 CO RD 17	COLON	NE	68018
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CLINT	A	ROLAND	NULL	"3721 W Capital Ave, Apt D-112"	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeremiah	J	Schutz	NULL	1340 County Road X	Cedar Bluffs	NE	68015
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CASEY	E	SIKES	NULL	202 4TH 	ALMA	NE	68920
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	nathan	D	STANDLEY	NULL	7429 grand oaks dr	LINCOLN	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEVIN	D	WOLVERTON	NULL	160490 CR 37	BAYARD	NE	69334
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nicholas	S	Woodward	NULL	2150 Cr J	HOOPER	NE	68031
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KURT	L	BELDING	NULL	4088 S Parker Rd	aurora	CO	80014
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	William	M	CHROMY	NULL	2952 co rd y 	Linwood	NE	68036
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SHAWN	R	CHURCH	NULL	75119 DR 428	Elwood	NE	68937
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	A	Cockle	NULL	21652 South 196th Street	Springfield	NE	68059
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DUSTIN	V	COPSEY	NULL	45115 Sunnyside Rd	Taylor	NE	68879
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jarod	L	Cruise	NULL	823 9th st.	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NICHOLAS	R	DELATORRE	NULL	3510 20th ave	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Bryan		Doke	NULL	212 N Main St	Ainsworth	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KENDALL	M	FOSTER	NULL	104 W FORK RD	BIG SPRINGS	NE	69122
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tanner	H	Johnson	NULL	"PO Box 113, 706 Jefferson"	Daykin	NE	68338
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kurtis	P	Kaiser	NULL	2432 RD 115	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFFREY	D	KEEFE	NULL	P.O. Box 111.	Sargent	NE	68874
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Travis	J	Keene	NULL	4307 michigan ave.	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	casey	a	lee	NULL	16930 little salt rd	Greenwood	NE	68366
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SIMON	S	MEDEL	NULL	1301 Sunrise Dr	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Amy		Santero	NULL	2420 Rd 115	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	brett		spencer	NULL	82984 456th Ave	BURWELL	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SCOTT	A	WIEBELHAUS	NULL	7601 s 136th st	Omaha	NE	68138
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Valerie		Wolverton	NULL	2422 Shelby Drive	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	D	Clark	NULL	812 D St	Shelton	NE	68876
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	christopher	j	divis	NULL	1746 cr 11	Mead	NE	68041
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Landon	L	Grothe	NULL	56033 848 Road	Hoskins	NE	68740
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ANDY	A	GROTRIAN	NULL	62924 731 rd	Johnson	NE	68378
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KRISTOPHER	L	HILL	NULL	11639 Willow Park Drive	GRETNA	NE	68028
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kevin	A	Lutz	NULL	5011 Sherwood Dr.	Lincoln	NE	68504
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ZACHARY	S	MARTIN	NULL	130141 County Rd. A	Mitchell	NE	69357
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	J	palmer	NULL	2528 Circle Ct	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	david		rivera	NULL	40 Gary Street	GERING	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	misty		twarling	NULL	1831 Forrest St	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ERIN	A	VAVRA	NULL	581 Hwy 35	DAKOTA CITY	NE	68731
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TRAVIS	L	WOLVERTON	NULL	855 O street Gering	Bayard	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	andrew	w	buschow	NULL	907 hewett ave	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Lance	E	Davis	NULL	8249 Flintlock Dr	Lincoln	NE	68526
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEVIN	L	GLOVER	NULL	1427 WINDSOR RD	Grand Island	NE	68801
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shawn	D	Havranek	NULL	1707 West 42nd St.	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL		JONES	NULL	64561 704 Road	SALEM	NE	68433
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jonathan	r	kossow	NULL	1944 holdrege rd	PLEASANT DALE	NE	68423
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jerome		lind	NULL	120 north cedar st.	SHELBY	NE	68662
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Travis	j	Lutz	NULL	33039 road 716	Parks	NE	69041
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	PRESTON	F	MAAS	NULL	2106 Eagle Crest Drive	PAPILLION	NE	68133
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WILLIAM	M	MCCLURE	NULL	949 Wann Rd.	Ashland	NE	68003
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jacob	W	Slagle	NULL	1008 W 21 rd	MARQUETTE	NE	68854
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LEONARD	J	STELMACH	III	4938 Cresthaven Drive	Lincoln	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeremy	L	Swanson	NULL	312 JOHN ST	Marquette	NE	68854
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joseph	B	Wiebelhaus	NULL	1402 w 8th	CROFTON	NE	68730
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brian	D	Young	NULL	1150 Buck Rd.	CORTLAND	NE	68331
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joe	B	Atkins	NULL	211 County Rd 60	Arnold	NE	69120
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aric	Q	Brophy	NULL	206 Lagerville Drive	AURORA	NE	68818
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Meredith	T	Cave	NULL	200 west g st	WEEPING WATER	NE	68463
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	C	Christ	NULL	914 W. 21st St.  	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Bryan	D	Davidson	NULL	2417 Highland Dr.	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kristopher	R	EVANS	NULL	408 n 12th ave	Broken Bow	NE	68822
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFFREY	J	FAIMON	NULL	19471 WALNUT CIR	Omaha	NE	68130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	michael		hostetler	NULL	3590 old cheney rd	Beaver Crossing	NE	68313
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brian		Hunt	NULL	74998 RD 435	LEXINGTON	NE	68850
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SCOTT	A	NACHTIGAL	NULL	9575 Rio Madera Rd	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aric	D	Riggins	NULL	72718 Trail 2	MC COOK	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	L	Roth	NULL	522-252nd Rd	MILFORD	NE	68405
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MARTIN	A	ROUBAL	NULL	915 Lovers Ln	Columbus	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeffrey	A	Salisbury	NULL	3726 Skyline Dr	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CRAIG	A	SCHNEIDER	NULL	2871 25th ave	Columbus	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Megan	M	Severeide	NULL	1889 140th St	Jackson	NE	68743
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kevin	D	Souerdyke	NULL	10804 S. 110th Street	Papillion	NE	68046
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shane		Stanton	NULL	609 E Nebraska Street	Bartley	NE	69020
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Timothy	M	Toth	NULL	14465 Krug Cir	OMAHA	NE	68144
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SHANNON	R	VERGIL	NULL	2741 Laredo dr.	Lincoln	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATTHEW	R	Wemhoff	NULL	7901 HEATHER AVE	LA VISTA	NE	68128
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jesse	A	Williamson	NULL	PO Box 138	Dix	NE	69133
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RANDY	A	ABBOTT	NULL	504 Bentley 	MELBETA	NE	69355
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	William	J	Abbott	Jr	106 Elliot Street	Dalton	NE	69131
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Paul		Brandenburg	NULL	16246 Longbow Cir	OMAHA	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Keith	A	Carroll	NULL	PO Box 14	LONG PINE	NE	69217
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JUSTIN	L	EGGERS	NULL	6811 Cherry Road	HEMINGFORD	NE	69348
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brandon	M	Eusterwiemann	NULL	57594 826 Rd	Howells	NE	68641
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SHANE	M	GRIESS	IV	637 Jansen Road	DANNEBROG	NE	68831
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jack	T	Harris	NULL	11510 Road 32	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LANE	J	HASTINGS	NULL	8749 S TAYLOR DR	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeremy		Johnson	NULL	1514 N Hastings	Hastings	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CLETUS	W	KLEINSCHMIT	NULL	409 SOUTH CEDAR	HARTINGTON	NE	68739
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jason	W	Lange	NULL	19209 Taylor Circle	ELKHORN	NE	68022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Christopher	A	Leonard	NULL	1015 8TH ST.	Gering	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeremy	E	Nesbitt	NULL	633 Huckleberry Ln	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NATE	K	REIL	NULL	1472 Pioneers Road	PLEASANT DALE	NE	68423
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Mike	T	Riddle	NULL	728 Illinois St.	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Douglas	j	schneider	NULL	2440 Shelby DR	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ken	W	Schutt	NULL	260 MC Bismark RD	GRAND ISLAND	NE	68801
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RYAN	D	STUTZMAN	NULL	500 238TH RD	Milford	NE	68405
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TERRY	R	YEAGER	NULL	180799 county road 18	Gering	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRISTOPHER	T	ANZALONE	NULL	505 N 7TH ST	ARLINGTON	NE	68002
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LELAND	P	BAILEY	NULL	3627 ave f	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	sheldon	d	curry	NULL	2049 N Maxwell	Fremont	NE	68025
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MICHAEL		DECORE	NULL	406 WEST J STREET	MC COOK	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dana	c	Hurt	NULL	1595 17th Ave Rd	WAHOO	NE	68066
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATTHEW	L	LEMLEY	NULL	1908 Ave P	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brian	J	lutz	NULL	2019 South 27th street 	LINCOLN	NE	68502
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SCOTT	A	NEHLS	NULL	765 West Washington St	LINCOLN	NE	68522
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shane	R	Severeide	NULL	1889 140th st	Jackson	NE	68743
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aaron	D	Shelton	NULL	6711 S 86th St	LINCOLN	NE	68526
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Aaron	R	Sherman	NULL	16605 Dyson Hollow Rd	Bellevue	NE	68123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	J	Shirley	NULL	8823 S 166th St	Omaha	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jerry	E	Smith	NULL	17923 RD 56	Oshkosh	NE	69154
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Todd	R	Travis	NULL	12840 Iron Horse Rd.	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JAMIE	S	TRIMBLE	NULL	603 BLACK HILLS AVE	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Curt	M	Turnipseed	NULL	1608 Leona Cir	Bellevue	NE	68123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRIAN	T	WERTS	NULL	PO BOX  51	Saint Edward	NE	68660
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	M	Zelazny	NULL	4 Daisy Trail	WAHOO	NE	68066
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TONYA	M	BEACH	NULL	301 SW 98TH	Lincoln	NE	68532
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Karlijoe	L	Beam	NULL	710 N. 8th Street	ARLINGTON	NE	68002
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	David	L	davis	NULL	901 S St	Auburn	NE	68305
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brad	J	Dubas	NULL	3006 bighorn place	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Christopher	L	Edwards	NULL	89259 557 Avenue	FORDYCE	NE	68736
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MILES	E	LEMLEY	NULL	523 2nd Street	MORRILL	NE	69358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Robert		Moore	NULL	P0 box 11	GRESHAM	NE	68367
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dustin	D	Peden	NULL	80509 CR. D	Morrill	NE	69358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Trent	A	Philbrick	NULL	90100 28th Ave	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	s	scharp	NULL	15366 MORMAN ST	BENNINGTON	NE	68007
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jimmie	J	Smith	NULL	7800 South 19th St	Lincoln	NE	68512
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KACEY	W	SMITH	NULL	15 Reeds Dr	BRULE	NE	69127
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Keith	J	Smith	NULL	1703 E 41ST ST. PLACE	Kearney	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RICHARD	V	THOMPSON	NULL	14133 S Street	Omaha	NE	68137
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Steven	M	Thompson	NULL	1102 Norris Ave	MC COOK	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRISTOPHER	J	WILCOX	NULL	65224 702 rd	Falls City	NE	68355
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Craig		anderson	NULL	"1998 s imig dr, po box 444"	SEWARD	NE	68434
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Klint	R	Butler	NULL	410 Beachwood Dr.	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	William	R	Grossnicklaus	NULL	403 Cambridge	Oxford	NE	68967
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	REGGIE	A	HOCHSTEIN	NULL	56088 885 rd	HARTINGTON	NE	68739
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Colton	D	Hosick	NULL	71096 Rd 384	MC COOK	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DOUGLAS	M	LEADER	NULL	20121 veterans drive	ELKHORN	NE	68022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ryan	D	Meisinger	NULL	3513 Scenic Dr	WEEPING WATER	NE	68463
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JUAN	G	SANCHEZ	NULL	42885 Sahara Acres Dr	COZAD	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Nick	D	Theis	NULL	560 Mill Race Rd.	Superior	NE	68978
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Robert	E	williams	NULL	222 Short St	Leigh	NE	68643
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kevin	T	Anderson	NULL	P. O. Box 64	Dunning	NE	68833
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROBERT	D	EVANS	NULL	630 Hamilton St.	Phillips	NE	68865
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brent	C	Kunz	NULL	8918 S 166th ST	Omaha	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Rob	E	Lindner	NULL	32480 Antelope Road	PLEASANTON	NE	68866
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CORY	B	LYNCH	NULL	2549 CTY RD 9	FREMONT	NE	68025
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BARTEL	J	MEIS	NULL	85275 571st Ave	Winside	NE	68790
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jason	j	pry	NULL	1841 County Road Q	COLON	NE	68018
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	troy	l	rodgers	NULL	19630 Farnam Street	Elkhorn	NE	68022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Robert	J	Schaaf	NULL	2964 N 90th St.	LINCOLN	NE	68507
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RODNEY	k	teten	NULL	10750 nw 121st pl	Malcolm	NE	68402
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chad	E	Wagoner	NULL	400 Maple St Box 88	Kenesaw	NE	68956
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	HARLIN	M	WELCH	NULL	464 N MAPLE ST	Ainsworth	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RICHARD	A	WISSING	NULL	407 Cody Rd	Saint Libory	NE	68872
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Troy	E	Carlson	NULL	3421 Rd. 191	Chappell	NE	69129
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jason	B	Cockle	NULL	2603 Oxford Ct	PLATTSMOUTH	NE	68048
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kurt	L	Kapperman	NULL	806 Fulton Ave	DORCHESTER	NE	68343
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Craig	t	Kloppenborg	NULL	Box 34	Ayr	NE	68925
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kevin	J	Martin	NULL	87284 Moon Lake Ave.	AINSWORTH	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TIMOTHY	G	MITTAN	NULL	361 E Belmont RD	Crawford 	NE	69933
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHAD	A	NIELSEN	NULL	1811 SANDALWOOD	FREMONT	NE	68025
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	STUART	S	RIEF	NULL	4308 Clifton Dr	OMAHA	NE	68134
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROGER	A	ROHRBOUCK	NULL	682 COUNTY RD 67	Hemingford	NE	69348
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	STEVE	L	SWARTHOUT	NULL	2400 SOUTH 19TH ST	BEATRICE	NE	68310
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kurt	H	VonMinden	NULL	210059 Wildcat Dr	GERING	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WILLIS	W	wellman	NULL	426 maple street 	Chadron	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHN	A	BAHR	NULL	1617 12th ave	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Alan		Boling	NULL	9602 S 172ND ST	OMAHA	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TROY	G	CADA	NULL	1793 W 22nd St	Wahoo	NE	68066
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHAD	W	CARLSON	NULL	6820 Ashbrook Drive #108	LINCOLN	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Lonnie	L	Clark	NULL	231 Boostrom RD	AXTELL	NE	68924
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brett	R	Cover	NULL	334 East Niobrara AVENUE	Chadron	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	julie	m	edler	NULL	705 bates blvd	LODGEPOLE	NE	69149
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TODD	P	HOYER	NULL	21277 SW 128 RD	CRETE	NE	68333
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Alanna	L	Hulse	NULL	223 w 3rd	YORK	NE	68467
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	EDDIE	J	PADEN	NULL	655 11TH ST	SYRACUSE	NE	68446
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shane	T	Richards	NULL	PO Box 123	Brule	NE	69127
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MARK	V	BENES	NULL	2400 W ALVO RD	Lincoln	NE	68524
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	courtney	K	berg	NULL	212 west 1rst st.	Laurel	NE	68745
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JONATHAN	R	BLANK	NULL	807 Pennyslvania	Table Rock	NE	68447
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Everett	K	Boren	NULL	2013 Mckelvie Rd	Murray	NE	68409
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dale	J	Douglas	NULL	2401 Deaver Dr.	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CRAIG	G	FEY	NULL	627 BOSWELL ST	CRETE	NE	68333
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	David	D	Gale	NULL	3416 Tyler Court	NORTH PLATTE	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeffrey	M	Hallgren	NULL	8929 Prairie Village Ct	Lincoln	NE	68507
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL	J	KLING	NULL	 124 Grace St PO Box 322	Harrison	NE	69346
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Rick	T	Kreuter	NULL	2031 Road 207	Big Springs	NE	69122
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Doug	l	RAFERT	NULL	1908 Road 23	Gresham	NE	68367
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFFREY	A	SMITH	NULL	1106 E 1st St	McCook	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	STEPHEN	D	SMITH	NULL	5640 Stonecliffe Ct	LINCOLN	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DEAN	R	BLASER	NULL	259 154TH ST	Denton	NE	68339
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFF	T	FORBES	NULL	628N 151st Circle 	OMAHA	NE	68154
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MATT	A	GIDEON	NULL	46488 HWY 96	Burwell	NE	68823
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROGER	L	JOHNSON	NULL	1584 COUNTY  RD 23	Malmo	NE	68040
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Shawn	A	Mcilnay	NULL	10225 N 156th St	Bennington	NE	68007
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Matthew	w	Ostergard	NULL	1111 18th street	Gothenburg	NE	69138
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Bryon	T	Streeks	NULL	2521 Devonshire Drive	Lincoln	NE	68506
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	R	Thompson	Jr	104  PALMER	LOOMIS	NE	68958
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	STEVEN	J	WALKOWIAK	NULL	462 COUNTY RD 16	CERESCO	NE	68017
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Robert	D	Zarek	NULL	4141 N 73rd ST	LINCOLN	NE	68507
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DAVE	D	CHAON	NULL	250 fay st	sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RODNEY	C	EDLER	NULL	705 Bates blvd	LODGEPOLE	NE	69149
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BOYD	R	GEISLER	NULL	1806 CEDARBERRY RD	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RODNEY	L	GIESE	NULL	1482 12th Road	Beemer	NE	68716
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRADLEY	T	GROSS	NULL	7950 AMELIA DR	LINCOLN	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kyle	D	HABERMAN	NULL	1624 4th Ave	Scottsbluff	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WILLIAM	D	HULSE	NULL	223 W 3RD 	YORK	NE	68467
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KENNETH	L	JOHNSON	NULL	PO Box 176	PRAGUE	NE	68050
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MIKE	A	KEARNEY	NULL	2821 lonetree lane	CENTRAL CITY	NE	68826
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ty	J	Merrill	NULL	983 ROAD EAST T N	PAXTON	NE	69155
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Mark	L	Montgomery	NULL	402 W 11TH ST	Cozad	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TED	L	NICHOLS	NULL	PO BOX 4	PLEASANTON	NE	68866
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CASEY	C	OLIPHANT	NULL	1022 W 81 ST	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHN	L	PAVLIK	NULL	1343 E olive Rd	BLUE SPRINGS	NE	68318
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Laurence	A	Robinson	NULL	548 Deaver Drive	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHRISTOPHER	E	ROUNDS	NULL	22310 ALVO RD	ALVO	NE	68304
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	D	Scow	Jr	130 East Cherry	Shelby	NE	68662
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RICK	E	THAUT	NULL	2507 West 8th Street	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JAMES	B	WALKER	NULL	 PO Box 223 / 215 Grove St	ARTHUR	NE	69121
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SCOTT		WREDT	NULL	17901 OLD CHENEY RD	WALTON	NE	68461
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFF	J	BLUNCK	NULL	1313 North Saunders Ave	Hastings	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MIKE	R	BOGUS	NULL	830 W CHADDERTON	Lincoln	NE	68521
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MIKE	W	BROOMFIELD	NULL	P.O Box 74	MCCOOK	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Gregory	A	Crockett	NULL	956 County Road 15	Wahoo	NE	68066
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Stuart	D	Hardin	NULL	PO BOX 155	GORDON	NE	69343
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Heather		Jansen	NULL	16517 Longbow Loop	OMAHA	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFF	w	KNOTT	NULL	6036 WEIR ST	OMAHA	NE	68117
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kelly	J	Koch	NULL	4309 Dove Hill Ave	Kearney	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JAMES	W	LILLEY	Jr	401 W MALCOLM ST	WALLACE	NE	69169
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BOB	W	MCBRIDE	NULL	721 W 3rd	Wayne	NE	68787
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GREGORY	T	MICHL	NULL	5043 NW 7th St	Lincoln	NE	68521
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	brad		perkins	NULL	3621 E Union Rd	UNION	NE	68455
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHAD	M	PERKINS	NULL	347 Lakehurst Dr	WATERLOO	NE	68069
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TREVOR	D	Premer	NULL	1111 WEST 5TH ST	MCCOOK	NE	69001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WAYNE	A	RISCHLING	NULL	9327 Polk	Omaha	NE	68127
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Keith	A	Sedlak	NULL	2298 N. 2nd Street	Seward	NE	68434
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dale		youse	NULL	1113 6th street 	CRAWFORD	NE	69339
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Duane	C	Anderson	Jr	4152 High Meadows Lane	Bellevue	NE	68147
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Eric		Bents	NULL	2528 N 187TH CIR	ELKHORN	NE	68022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Tim	S	Blackmon	NULL	1040 West 10th Ave.	North Bend	NE	68649
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	John	A	Bolduc	NULL	9954 White Pine Rd	LINCOLN	NE	68527
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEVIN		BYINGTON	NULL	17230 K St	Omaha	NE	68135
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL	L	GASKILL	NULL	10766 COUNTY RD 32	BLAIR	NE	68008
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Daniel	C	McElwain	NULL	16800 N 84th St.	Lincoln	NE	68517
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ALLEN		meyers	NULL	1371 WHITEWATER DR	Papillion	NE	68046
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	James	D	Nagengast	NULL	16517 Longbow Loop	Omaha	NE	68136
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ALAN	K	PENFIELD	NULL	PO BOX 846	CHAPPELL	NE	69129
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chris	J	Pokorny	NULL	19715 Marinda St	Omaha	NE	68130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LAWRENCE	A	REIMAN	NULL	87183 W 10TH ST	ONEILL	NE	68763
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	FRED	H	SMITH	III	1307 east D street	North platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TIMOTHY	L	SNYDER	NULL	1038 196th Rd	PLEASANT DALE	NE	68423
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SCOTT	E	snygg	NULL	120473 COUNTY RD E	Mitchell	NE	69357
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ev	a	Tarrell	NULL	1821 Ridge Road	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SCOTT	A	ZIMBELMAN	NULL	63 Cedar Point	Cozad	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DAVID	C	BURES	NULL	46418 SW 32nd Rd	Odell	NE	68415
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	STEVEN	J	EHLERS	NULL	6363 S 176TH	WALTON	NE	68461
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RUSS	W	GLYNN	NULL	2506 3RD RD	PALMER	NE	68864
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFF	A	HAWKINSON	NULL	823 N SAUNDERS AVE	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LEE	A	JERKE	NULL	524 TOLUCA AVE	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Scott	J	Kapperman	NULL	5001 W SPARROW LN	LINCOLN	NE	68528
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Brett	R	Kuhn	NULL	21866 Bobwhite Ave	Gretna	NE	68028
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LONNIE	K	LARUE	NULL	325 2ND ST	Meadow Grove	NE	68752
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	James	D	Lott	NULL	2923 Lee Street	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	J	Mason	NULL	752 Dailey Drive	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeffrey	S	Most	NULL	725 Road West A South	Ogallala	NE	69153
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Eugene	J	muhr	I	523 Railroad	MORRILL	NE	69358
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	jim	a	svoboda	NULL	1776 39th road	David city	NE	68658
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DREW	M	ARMSTRONG	NULL	309 Bayside	BRULE	NE	69127
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	David	B	Bueling	NULL	2821 KIPLING CIR	LINCOLN	NE	68516
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Todd	L	Burrell	NULL	70941 337 Ave	BENKELMAN	NE	69021
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joe	A	Golden	NULL	PO Box 952	Chadron	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL	F	HEJL	NULL	1219 140 RD	Pleasant Dale	NE	68423
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TODD	K	KRANAU	NULL	PO BOX 244	BLUE HILL	NE	68930
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Rick	A	Ostergard	NULL	2021 W PHILIP AVE	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RUSSELL	D	RUXTON	NULL	722 E 2 ST	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEITH	A	UHING	NULL	3553 SOUTH 186 ST	Omaha	NE	68130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	G	Walz	NULL	24935 N Cattle Growers Road	Stapleton	NE	69163
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Douglas		ZAREK	NULL	107 E 5TH	JUNIATA	NE	68955
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GREGORY	L	ZIMBELMAN	NULL	50 PAULSEN LOOP	COZAD	NE	69130
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MARK	S	ANTHONY	NULL	3001 TOLUCA AVE	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	E	Corbin	NULL	5690 Highway 29	HARRISON	NE	69346
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFF	S	DONNELLY	NULL	581 HIGHWAY 35	DAKOTA CITY	NE	68731
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RICHARD	A	DURFLINGER	NULL	7143 ROAD T	ALEXANDRIA	NE	68303
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ANDREW	L	GLIDDEN	NULL	87953 433RD Ave	Ainsworth	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Jeffrey	A	Goble	NULL	1218 Woodbridge Ct.	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JEFF	J	Johnson	NULL	84761 556th Ave	Norfolk	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SCOTT		JOHNSON	NULL	1591 RD 70 EAST	Paxton	NE	69155
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BRUCE	G	LUX	NULL	4209 LARIAT PL	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROYCE	A	PENNER	NULL	26 McGinleys	Keystone	NE	69144
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Mathew	S	Preisendorf	NULL	2515 Jan Street	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Gregory	A	Shepard	NULL	PO Box 329	CAMBRIDGE	NE	69022
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROGER	R	SUTHERLAND	NULL	231 N. 20th st.	BLAIR	NE	68008
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MICHAEL	E	SVITAK	NULL	90128 FAIRWAY DRIVE	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dwayne	P	Tirado	NULL	421 w centura st	Dannebrog	NE	68831
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KENNETH	L	VETTEL	NULL	1007  W  21  RD	MARQUETTE	NE	68854
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Janet	L	Zimmerer	NULL	802 South 8th Street	Humphrey	NE	68642
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Joe	E	Bradley	NULL	44850 RD. 793	ANSLEY	NE	68814
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MICHAEL	J	BURR	NULL	43221 RD 751	LEXINGTON	NE	68850
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Robert	w	Hawkins	NULL	307 N MARTEN ST	HOSKINS	NE	68740
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Donald	L	Miller	NULL	4815 N 137th St	OMAHA	NE	68164
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Rusty	r	Osburn	NULL	P.O. Box 211	Cody	NE	69211
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROBERT	D	RUST	NULL	2088 RD 2100	Blue Hill	NE	68930
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	robert	l	yetter	NULL	610 1st st	Sutherland	NE	69165
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WESLEY	L	BUCK	NULL	po box 65 104 Wellington	STOCKVILLE	NE	69042
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LANNY	J	BURR	NULL	4061 I ROAD	SYRACUSE	NE	68446
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ERNEST	H	BUTTRY	NULL	17519 MADISON ST 	OMAHA	NE	68135
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kendall		Favinger	NULL	P.O. Box 243/ 1348 34 Rd.	Minden	NE	68859
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	THOMAS	D	HERR	NULL	213 294 Rd	Milford	NE	68405
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MARK	A	ROSS	NULL	5852 Jefferson Rd	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RUSS		SNYGG	NULL	6312 N 155th Ave Cir	OMAHA	NE	68116
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	A	Tremel	Sr	1 Driftwood Drive	Columbus	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GARY	L	ZIMMERER	NULL	802 S 8 ST	Humphrey	NE	68642
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	HENRY	J	BARTLETT	NULL	9129 SOUTH 54TH ROAD	Cortland	NE	68331
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BUDD	E	BOGATZ	NULL	11629 286th Street	Murdock	NE	68407
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Chris	O	Ford	NULL	275 Margaret Drive	Gering	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	KEVIN	K	KENNY	NULL	505 e spruce ave	Norfolk	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TIM	S	MURPHY	NULL	54696 833 ROAD	MADISON	NE	68748
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	charles	w	salisbury	NULL	1827 n. locust st.	Wahoo	NE	68066
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	SANDI	L	SVACINA	NULL	560 William Way 	SIdney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Timothy	E	Vrana	NULL	PO Box 342	ABIE	NE	68001
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MONTE	R	BEASON	NULL	59 KUESTER LAKE	GRAND ISLAND	NE	68801
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANIEL	L	BLUNCK	NULL	422 S BROWN	PIERCE	NE	68767
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DAVID	A	CLANCY	NULL	1801 W. 7th St.	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DANA	R	HANDY	NULL	29 Otter Creek Court	LEWELLEN	NE	69147
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	BILL		LUX	NULL	113 SOUTH SUMNER	BEATRICE	NE	68310
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MICHAEL	L	ROWAN	NULL	4622 RD 125	Gurley	NE	69141
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Keith	W	Southworth	NULL	7515 S 93rd St	LA VISTA	NE	68128
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Mark	G	Taylor	NULL	1450 South H street	BROKEN BOW	NE	68822
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RAY	L	TOWNSEND	NULL	250185 CO RD E	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DAVID	L	WOJAHN	NULL	1831 W 9TH	HASTINGS	NE	68901
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHNNY	L	BARTA	NULL	1589 County Road W	SWANTON	NE	68445
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Rick	A	Collins	NULL	1911 w lousie st	Grand Island	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Michael	A	ELLINGSON	NULL	426 COUNTY RD 2250	Crete	NE	68333
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RICHARD	L	GRAEFF	NULL	P.0 Box 542	CHAPPELL	NE	69129
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LEONARD	A	PHILLIPS	NULL	PO BOX 43	MULLEN	NE	69152
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHN	P	SCHROEDER	NULL	720 West 23rd St	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Doug	S	Sorenson	NULL	2712 No 60th Ave	Omaha	NE	68104
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Wayne	R	Wall	NULL	2008 29 RD	Kearney	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	NEIL	R	BLOHM	NULL	58175 874 Rd	Allen	NE	68710
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TIMOTHY	E	BRANDT	NULL	77458 Rd 461	PLEASANTON	NE	68866
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Sandra	K	klein	NULL	PO Box 227	Beaver City	NE	68926
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	TERRY		KLEIN	NULL	BOX 227 / 1019 9TH ST	Beaver City	NE	68926
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	STEPHEN	A	LEICHLEITER	NULL	6905 EDNA ST	LAVISTA	NE	68128
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Paul	E	Loberg	NULL	PO Box 223	Randolph	NE	68771
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Fred	J	Matulka	NULL	5700 Cuthills Ct.	Lincoln	NE	68526
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Randy		McIlrath	NULL	17750 rd 22	Chappell	NE	69129
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROD	W	BROWN	NULL	3509 EVERGREEN DR	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHNNIE	L	DRUBA	NULL	908 N KANSAS	SUPERIOR	NE	68978
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RODNEY	D	Ludemann	NULL	710  2ND N	ONEILL	NE	68763
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Douglas	S	McCloud	NULL	P.O.Box 685	Bridgeport	NE	69336
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CLIFTON	W	MEYER	NULL	PO BOX 383	Tilden	NE	68781
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RICK	D	MONIE	NULL	1205 E 3RD ST	OGALLALA	NE	69153
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WILLIAM	J	SWINARSKI	NULL	4533 S 39TH ST	OMAHA	NE	68107
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LARRY	G	BORM	NULL	2237 NEWTON ST	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JAMES	D	BOURN	NULL	1230 ROBIN AVE	ALLIANCE	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	MICHAEL	R	JAMESON	NULL	1479 26 RD	MINDEN	NE	68959
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	L	Noel	NULL	1703 FORREST ST	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Mike	D	Rogert	NULL	8945 Blacksmith Ct	Lincoln	NE	68507
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Kristin	L	Schleichardt	NULL	329 'E' Rd	Chapman	NE	68827
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Thomas	L	Schleichardt	NULL	329 E RD	Chapman	NE	68827
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LARRY	E	STRAKA	NULL	54660 838 RD	Battle Creek	NE	68715
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	PETER		CIACCIO	NULL	16511 DYSON HOLLOW RD	Bellevue	NE	68123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	mark	d	cooper	NULL	po box 1081	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	LARRY	D	CRUISE	NULL	PO BOX 1	SAINT EDWARD	NE	68660
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	PATRICK	J	HRUBY	NULL	616 Cottonwood School Road	HEMINGFORD	NE	69348
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Peter	J	Luth	NULL	215 W. Jennifer Drive	Lincoln	NE	68521
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Wayne	V	Sievers	NULL	5407 W SOUTH AIRPORT RD	NORFOLK	NE	68701
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	David	a	STANDLEY	NULL	4310 Hillside	Lincoln	NE	68506
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WILLIAM	D	WONCH	NULL	144 CTY RD 60	STAPLETON	NE	69163
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHN	W	ANDEL	NULL	2170 37TH RD	BRUNO	NE	68014
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	David	M	Kincaid	NULL	560 200TH ST	DAKOTA CITY	NE	68731
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RODNEY	L	SIEVERS	NULL	815 E 14TH ST	KEARNEY	NE	68847
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Cecil	L	Wonch	NULL	306 Gandy Haskell Ave.	Stapleton	NE	69163
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ronald	G	Groskopf	NULL	270557 HWY 92	GERING	NE	69341
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	THOMAS	J	LOHMEIER	NULL	PO BOX 44	HEBRON	NE	68370
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JIM	C	LUTZ	NULL	71565 329 AVE	PARKS	NE	69041
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RICK	L	WERTS	NULL	PO BOX 183	Saint Edward	NE	68660
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Steven	K	Zimmerman	NULL	142 Rd W 80	Ogallala	NE	69153
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROGER	G	DAAKE	NULL	4407 SUNSET TRL	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GARY	W	LEACH	NULL	244 W 7TH ST	AINSWORTH	NE	69210
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Stephan	p	Neujahr	NULL	918 road n	york	NE	68467
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DENNIS	R	PROCHASKA	NULL	2288 CO RD 30	PRAGUE	NE	68050
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHN	D	TUELL	NULL	560 william way	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Richard	l	Chandler	NULL	705 West 22nd ave	BELLEVUE	NE	68005
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	John	T	Chizek	NULL	318 N. Maple	Chadron	NE	69337
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	ROGER	d	HOSTETTER	NULL	po box 232	nehawka	NE	68413
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Leslie	E	Manning	NULL	735 North 14th Ave	Broken Bow	NE	68822
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	RONALD	D	NORRIS	NULL	1519 SHERWOOD CIR	KEARNEY	NE	68845
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Roger	J	Biltoft	NULL	4571 RD. R	Oak	NE	68964
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dennis		Hellman	NULL	4480 RD 89	POTTER	NE	69156
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dennis	G	Stoltz	NULL	709 Winnie st PO BOX 74	Wilsonville	NE	69046
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	patricia	j	frederick	NULL	315 Panzer Street - P.O. Box 66	BASSETT	NE	68714
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	JOHN	P	MEISTER	NULL	1417 N PIPER	GRAND ISLAND	NE	68803
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GERALD	F	WELLMAN	NULL	119 LAMBRECHT ST	Beemer	NE	68716
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	WILLIAM	F	CHROMY	NULL	2802 County Rd 30	Linwood	NE	68036
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GARRY	E	UNDERWOOD	NULL	7090 VALLEY RD	Alliance	NE	69301
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Dennis	C	Smith	NULL	1423 252ND	SEWARD	NE	68434
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GARY	J	ABEGGLEN	NULL	22 DRIFTWOOD DR	COLUMBUS	NE	68601
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	Ronald		Bartling	NULL	2646 LAREDO LN	SIDNEY	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	STANLEY	D	PILCHER	NULL	3116 E ISLAND RD	BRADY	NE	69123
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	GARY	W	HOLLY	NULL	1341 COUNTRY CLUB DRIVE	Sidney	NE	69162
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	CHARLES	H	DAVEY	Jr	90156 SUGAR FACTORY ROAD	SCOTTSBLUFF	NE	69361
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	donald	l	sears	NULL	1407 west philip ave	North Platte	NE	69101
+2020	Antelope	Resident-Statewide Antelope Archery- Antelope	DARREL	J	RIEDEL	NULL	"604 Douglas, PO BOX 246"	RANDOLPH	NE	68771
